@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "name": "vionous-spanish language",
+    "version": "1.0.0",
+    "created": "2025-12-24T09:51:06.882976",
+    "source": "Spanish Language Stack Exchange",
+    "license": "CC-BY-SA 4.0"
+  },
+  "dataset_size": {
+    "total_pairs": 8853,
+    "train_pairs": 7967,
+    "val_pairs": 886,
+    "train_val_split": "90/10"
+  },
+  "source_stats": {
+    "total_questions": 9138,
+    "questions_with_answers": 8940,
+    "pairs_created": 8853,
+    "min_score_filter": 1
+  },
+  "quality_metrics": {
+    "accepted_answer_ratio": 0.689709702925562,
+    "avg_question_score": 4.175420761323845,
+    "avg_answer_score": 4.82220716141421
+  },
+  "top_tags": {
+    "|traducción|": 378,
+    "|gramática|": 333,
+    "|uso-de-palabras|": 147,
+    "|selección-de-palabras|": 92,
+    "|etimología|": 83,
+    "|subjuntivo|": 82,
+    "|vocabulario|": 77,
+    "|traducción|selección-de-palabras|": 69,
+    "|pronunciación|": 59,
+    "|solicitud-de-término|": 58,
+    "|pronombres|": 56,
+    "|traducción|solicitud-de-término|": 56,
+    "|definiciones|": 55,
+    "|modismos|": 55,
+    "|significado|": 55,
+    "|identificación-de-término|": 51,
+    "|preposiciones|": 49,
+    "|verbos|": 46,
+    "|gramática|pronombres|": 44,
+    "|traducción|modismos|": 43
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "name": "vionous-french language",
+    "version": "1.0.0",
+    "created": "2025-12-24T09:51:18.130154",
+    "source": "French Language Stack Exchange",
+    "license": "CC-BY-SA 4.0"
+  },
+  "dataset_size": {
+    "total_pairs": 13052,
+    "train_pairs": 11746,
+    "val_pairs": 1306,
+    "train_val_split": "90/10"
+  },
+  "source_stats": {
+    "total_questions": 13493,
+    "questions_with_answers": 13177,
+    "pairs_created": 13052,
+    "min_score_filter": 1
+  },
+  "quality_metrics": {
+    "accepted_answer_ratio": 0.6661048115231382,
+    "avg_question_score": 3.754520380018388,
+    "avg_answer_score": 4.593548881397487
+  },
+  "top_tags": {
+    "|grammaire|": 384,
+    "|sens|": 354,
+    "|expressions|": 309,
+    "|vocabulaire|": 228,
+    "|traduction|": 219,
+    "|prononciation|": 142,
+    "|choix-de-mot|": 116,
+    "|prépositions|": 105,
+    "|sens|expressions|": 101,
+    "|traduction|anglais|": 98,
+    "|pronoms|": 93,
+    "|articles|": 92,
+    "|usage|": 89,
+    "|étymologie|": 88,
+    "|sens|vocabulaire|": 85,
+    "|expressions-idiomatiques|": 83,
+    "|grammaire|pronoms|": 73,
+    "|vocabulaire|choix-de-mot|": 64,
+    "|grammaire|prépositions|": 56,
+    "|traduction|anglais|expressions-idiomatiques|": 49
+  }
+}

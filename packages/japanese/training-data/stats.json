@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "name": "vionous-japanese language",
+    "version": "1.0.0",
+    "created": "2025-12-24T09:50:51.379873",
+    "source": "Japanese Language Stack Exchange",
+    "license": "CC-BY-SA 4.0"
+  },
+  "dataset_size": {
+    "total_pairs": 27281,
+    "train_pairs": 24552,
+    "val_pairs": 2729,
+    "train_val_split": "90/10"
+  },
+  "source_stats": {
+    "total_questions": 29273,
+    "questions_with_answers": 27756,
+    "pairs_created": 27281,
+    "min_score_filter": 1
+  },
+  "quality_metrics": {
+    "accepted_answer_ratio": 0.7089916058795499,
+    "avg_question_score": 3.4086727026135404,
+    "avg_answer_score": 4.650855907041531
+  },
+  "top_tags": {
+    "|grammar|": 2392,
+    "|meaning|": 978,
+    "|translation|": 859,
+    "|word-choice|": 688,
+    "|words|": 502,
+    "|grammar|meaning|": 274,
+    "|kanji|": 223,
+    "|grammar|translation|": 220,
+    "|translation|meaning|": 197,
+    "|word-choice|nuances|": 163,
+    "|grammar|particles|": 157,
+    "|particles|": 155,
+    "|grammar|word-choice|": 144,
+    "|usage|": 143,
+    "|etymology|": 141,
+    "|pronunciation|": 141,
+    "|verbs|": 127,
+    "|word-choice|words|": 126,
+    "|meaning|words|": 126,
+    "|nuances|": 112
+  }
+}

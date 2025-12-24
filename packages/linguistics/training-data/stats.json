@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "name": "vionous-linguistics",
+    "version": "1.0.0",
+    "created": "2025-12-24T09:51:41.207454",
+    "source": "Linguistics Stack Exchange",
+    "license": "CC-BY-SA 4.0"
+  },
+  "dataset_size": {
+    "total_pairs": 8862,
+    "train_pairs": 7975,
+    "val_pairs": 887,
+    "train_val_split": "90/10"
+  },
+  "source_stats": {
+    "total_questions": 11125,
+    "questions_with_answers": 9043,
+    "pairs_created": 8862,
+    "min_score_filter": 1
+  },
+  "quality_metrics": {
+    "accepted_answer_ratio": 0.46863010607086436,
+    "avg_question_score": 3.5630783118934777,
+    "avg_answer_score": 4.8607537801850595
+  },
+  "top_tags": {
+    "|terminology|": 120,
+    "|etymology|": 86,
+    "|phonetics|": 82,
+    "|phonology|": 74,
+    "|syntax|": 73,
+    "|computational-linguistics|": 40,
+    "|historical-linguistics|": 38,
+    "|semantics|": 34,
+    "|phonology|phonetics|": 34,
+    "|english|": 31,
+    "|grammar|": 30,
+    "|ipa|": 27,
+    "|syntax|syntax-trees|": 25,
+    "|proto-indo-european|": 23,
+    "|morphology|": 22,
+    "|writing-systems|": 21,
+    "|phonetics|ipa|": 19,
+    "|comparative-linguistics|": 18,
+    "|praat|": 17,
+    "|sociolinguistics|": 17
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "name": "vionous-english language learners",
+    "version": "1.0.0",
+    "created": "2025-12-24T09:52:08.593750",
+    "source": "English Language Learners Stack Exchange",
+    "license": "CC-BY-SA 4.0"
+  },
+  "dataset_size": {
+    "total_pairs": 98227,
+    "train_pairs": 88404,
+    "val_pairs": 9823,
+    "train_val_split": "90/10"
+  },
+  "source_stats": {
+    "total_questions": 109291,
+    "questions_with_answers": 102270,
+    "pairs_created": 98227,
+    "min_score_filter": 1
+  },
+  "quality_metrics": {
+    "accepted_answer_ratio": 0.553686868172702,
+    "avg_question_score": 1.6392845144410397,
+    "avg_answer_score": 3.0442749956732875
+  },
+  "top_tags": {
+    "|grammar|": 4015,
+    "|meaning|": 3818,
+    "|meaning-in-context|": 3111,
+    "|word-usage|": 2739,
+    "|prepositions|": 2081,
+    "|word-request|": 1844,
+    "|word-choice|": 1492,
+    "|sentence-construction|": 1414,
+    "|phrase-meaning|": 1312,
+    "|word-meaning|": 1186,
+    "|sentence-meaning|": 957,
+    "|meaning|meaning-in-context|": 866,
+    "|articles|": 857,
+    "|phrase-usage|": 799,
+    "|tense|": 705,
+    "|grammaticality|": 680,
+    "|vocabulary|": 667,
+    "|difference|": 654,
+    "|word-usage|word-choice|": 624,
+    "|phrase-request|": 536
+  }
+}

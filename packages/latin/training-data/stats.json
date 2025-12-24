@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "name": "vionous-latin language",
+    "version": "1.0.0",
+    "created": "2025-12-24T09:52:12.625888",
+    "source": "Latin Language Stack Exchange",
+    "license": "CC-BY-SA 4.0"
+  },
+  "dataset_size": {
+    "total_pairs": 5843,
+    "train_pairs": 5258,
+    "val_pairs": 585,
+    "train_val_split": "90/10"
+  },
+  "source_stats": {
+    "total_questions": 6484,
+    "questions_with_answers": 5884,
+    "pairs_created": 5843,
+    "min_score_filter": 1
+  },
+  "quality_metrics": {
+    "accepted_answer_ratio": 0.6359746705459525,
+    "avg_question_score": 6.2224884477152145,
+    "avg_answer_score": 6.514975183980832
+  },
+  "top_tags": {
+    "|english-to-latin-translation|": 337,
+    "|etymology|": 103,
+    "|latin-to-english-translation|": 95,
+    "|vocabulary|": 77,
+    "|english-to-latin-translation|translation-check|": 65,
+    "|idiom|": 54,
+    "|classical-latin|": 42,
+    "|english-to-latin-translation|idiom|": 40,
+    "|translation-check|": 32,
+    "|english-to-latin-translation|motto|": 32,
+    "|word-request|": 30,
+    "|english-to-latin-translation|vocabulary|": 30,
+    "|pronunciation|": 28,
+    "|grammar-identification|": 25,
+    "|sentence-translation|": 24,
+    "|syntax|": 23,
+    "|grammar-choice|": 23,
+    "|vocabulary|english-to-latin-translation|": 21,
+    "|vulgata|": 18,
+    "|english-to-latin-translation|sentence-translation|": 18
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "name": "vionous-chinese language",
+    "version": "1.0.0",
+    "created": "2025-12-24T09:50:57.350922",
+    "source": "Chinese Language Stack Exchange",
+    "license": "CC-BY-SA 4.0"
+  },
+  "dataset_size": {
+    "total_pairs": 11205,
+    "train_pairs": 10084,
+    "val_pairs": 1121,
+    "train_val_split": "90/10"
+  },
+  "source_stats": {
+    "total_questions": 11570,
+    "questions_with_answers": 11466,
+    "pairs_created": 11205,
+    "min_score_filter": 1
+  },
+  "quality_metrics": {
+    "accepted_answer_ratio": 0.6045515394912985,
+    "avg_question_score": 2.6581883087907183,
+    "avg_answer_score": 3.5020972780008925
+  },
+  "top_tags": {
+    "|translation|": 885,
+    "|grammar|": 579,
+    "|meaning|": 415,
+    "|meaning-in-context|": 230,
+    "|word-choice|": 211,
+    "|vocabulary|": 167,
+    "|etymology|": 161,
+    "|difference|": 147,
+    "|characters|": 123,
+    "|pronunciation|": 121,
+    "|meaning|meaning-in-context|": 101,
+    "|word|": 99,
+    "|translation|meaning|": 94,
+    "|usage|": 94,
+    "|meaning|difference|": 92,
+    "|character-identification|": 74,
+    "|translation|grammar|": 72,
+    "|grammar|usage|": 62,
+    "|grammar|sentence-structure|": 61,
+    "|word-requests|": 61
+  }
+}

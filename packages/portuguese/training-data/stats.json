@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "name": "vionous-portuguese language",
+    "version": "1.0.0",
+    "created": "2025-12-24T09:51:33.938323",
+    "source": "Portuguese Language Stack Exchange",
+    "license": "CC-BY-SA 4.0"
+  },
+  "dataset_size": {
+    "total_pairs": 2344,
+    "train_pairs": 2109,
+    "val_pairs": 235,
+    "train_val_split": "90/10"
+  },
+  "source_stats": {
+    "total_questions": 2520,
+    "questions_with_answers": 2374,
+    "pairs_created": 2344,
+    "min_score_filter": 1
+  },
+  "quality_metrics": {
+    "accepted_answer_ratio": 0.6919795221843004,
+    "avg_question_score": 5.446672354948806,
+    "avg_answer_score": 4.993174061433447
+  },
+  "top_tags": {
+    "|gramática|": 67,
+    "|ortografia|": 39,
+    "|português-brasileiro|": 37,
+    "|etimologia|": 34,
+    "|significado|": 34,
+    "|tradução-inglês|": 29,
+    "|tradução|tradução-inglês|": 27,
+    "|pronúncia|": 26,
+    "|vocabulário|": 26,
+    "|palavra-para-ideia|": 20,
+    "|significado|português-brasileiro|": 20,
+    "|uso-de-palavras|": 19,
+    "|verbos|": 16,
+    "|significado|uso-de-palavras|": 16,
+    "|pronomes|": 15,
+    "|pontuação|": 14,
+    "|português-europeu|": 14,
+    "|significado|etimologia|": 14,
+    "|tradução|": 14,
+    "|expressões|": 14
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "name": "vionous-italian language",
+    "version": "1.0.0",
+    "created": "2025-12-24T09:51:31.159395",
+    "source": "Italian Language Stack Exchange",
+    "license": "CC-BY-SA 4.0"
+  },
+  "dataset_size": {
+    "total_pairs": 3465,
+    "train_pairs": 3118,
+    "val_pairs": 347,
+    "train_val_split": "90/10"
+  },
+  "source_stats": {
+    "total_questions": 3785,
+    "questions_with_answers": 3511,
+    "pairs_created": 3465,
+    "min_score_filter": 1
+  },
+  "quality_metrics": {
+    "accepted_answer_ratio": 0.6496392496392497,
+    "avg_question_score": 3.7226551226551226,
+    "avg_answer_score": 4.8072150072150075
+  },
+  "top_tags": {
+    "|meaning|": 279,
+    "|word-meaning|": 226,
+    "|grammar|": 98,
+    "|word-meaning|verbs|": 94,
+    "|word-usage|": 93,
+    "|translation|": 83,
+    "|word-meaning|regional|": 76,
+    "|meaning|idioms|": 55,
+    "|etymology|": 38,
+    "|verbs|": 36,
+    "|pronunciation|": 34,
+    "|word-choice|": 33,
+    "|word-meaning|adjectives|": 32,
+    "|word-usage|word-meaning|": 30,
+    "|prepositions|": 27,
+    "|translation|phrase-request|": 26,
+    "|idioms|": 25,
+    "|word-usage|meaning|": 25,
+    "|word-usage|verbs|": 24,
+    "|grammar|prepositions|": 23
+  }
+}

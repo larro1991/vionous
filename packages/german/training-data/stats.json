@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "name": "vionous-german language",
+    "version": "1.0.0",
+    "created": "2025-12-24T09:51:25.180524",
+    "source": "German Language Stack Exchange",
+    "license": "CC-BY-SA 4.0"
+  },
+  "dataset_size": {
+    "total_pairs": 17189,
+    "train_pairs": 15470,
+    "val_pairs": 1719,
+    "train_val_split": "90/10"
+  },
+  "source_stats": {
+    "total_questions": 17620,
+    "questions_with_answers": 17332,
+    "pairs_created": 17189,
+    "min_score_filter": 1
+  },
+  "quality_metrics": {
+    "accepted_answer_ratio": 0.6672872185700157,
+    "avg_question_score": 4.6210367095235325,
+    "avg_answer_score": 6.384548257606609
+  },
+  "top_tags": {
+    "|meaning|": 529,
+    "|difference|": 257,
+    "|word-usage|": 250,
+    "|translation|": 244,
+    "|preposition|": 241,
+    "|sentence-structure|": 224,
+    "|translation|english-to-german|": 224,
+    "|etymology|": 211,
+    "|meaning-in-context|": 207,
+    "|single-word-request|": 200,
+    "|english-to-german|": 191,
+    "|word-choice|": 172,
+    "|grammatical-case|": 165,
+    "|pronunciation|": 164,
+    "|grammar-identification|": 160,
+    "|grammar|": 151,
+    "|word-order|": 141,
+    "|meaning|meaning-in-context|": 122,
+    "|verb|": 105,
+    "|idiom|": 98
+  }
+}
