@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "name": "vionous-graphic design",
+    "version": "1.0.0",
+    "created": "2025-12-24T09:59:19.934510",
+    "source": "Graphic Design Stack Exchange",
+    "license": "CC-BY-SA 4.0"
+  },
+  "dataset_size": {
+    "total_pairs": 31724,
+    "train_pairs": 28551,
+    "val_pairs": 3173,
+    "train_val_split": "90/10"
+  },
+  "source_stats": {
+    "total_questions": 36449,
+    "questions_with_answers": 33790,
+    "pairs_created": 31724,
+    "min_score_filter": 1
+  },
+  "quality_metrics": {
+    "accepted_answer_ratio": 0.5185033413188753,
+    "avg_question_score": 2.5668894212583533,
+    "avg_answer_score": 3.580286218635733
+  },
+  "top_tags": {
+    "|adobe-illustrator|": 1450,
+    "|adobe-photoshop|": 1238,
+    "|inkscape|": 474,
+    "|adobe-indesign|": 401,
+    "|gimp|": 351,
+    "|font-identification|": 292,
+    "|adobe-photoshop|adobe-illustrator|": 144,
+    "|fonts|font-identification|": 142,
+    "|sketch-app|": 138,
+    "|fonts|": 134,
+    "|adobe-illustrator|vector|": 109,
+    "|adobe-photoshop|photoshop-effects|": 108,
+    "|adobe-photoshop|layers|": 107,
+    "|print-design|": 104,
+    "|website-design|": 96,
+    "|inkscape|svg|": 88,
+    "|typography|": 83,
+    "|adobe-illustrator|shapes|": 82,
+    "|adobe-illustrator|path|": 76,
+    "|color|": 70
+  }
+}

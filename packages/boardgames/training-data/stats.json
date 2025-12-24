@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "name": "vionous-board games",
+    "version": "1.0.0",
+    "created": "2025-12-24T10:01:20.919002",
+    "source": "Board Games Stack Exchange",
+    "license": "CC-BY-SA 4.0"
+  },
+  "dataset_size": {
+    "total_pairs": 13322,
+    "train_pairs": 11989,
+    "val_pairs": 1333,
+    "train_val_split": "90/10"
+  },
+  "source_stats": {
+    "total_questions": 13873,
+    "questions_with_answers": 13471,
+    "pairs_created": 13322,
+    "min_score_filter": 1
+  },
+  "quality_metrics": {
+    "accepted_answer_ratio": 0.6575589250863234,
+    "avg_question_score": 5.214307161086924,
+    "avg_answer_score": 7.217009458039334
+  },
+  "top_tags": {
+    "|magic-the-gathering|": 3819,
+    "|identify-this-game|": 305,
+    "|yu-gi-oh|": 250,
+    "|bridge|bidding|": 224,
+    "|magic-the-gathering|mtg-commander|": 206,
+    "|catan|": 166,
+    "|bridge|": 156,
+    "|android-netrunner|": 140,
+    "|arkham-horror|": 119,
+    "|monopoly|": 117,
+    "|betrayal-at-house-on-the-hill|": 111,
+    "|warhammer-40k|": 107,
+    "|magic-the-gathering|mtg-stack|": 97,
+    "|pokemon|": 92,
+    "|dominion|": 91,
+    "|munchkin|": 90,
+    "|axis-and-allies|": 85,
+    "|scrabble|": 72,
+    "|go|": 69,
+    "|untagged|": 67
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "name": "vionous-expatriates",
+    "version": "1.0.0",
+    "created": "2025-12-24T10:03:01.356561",
+    "source": "Expatriates Stack Exchange",
+    "license": "CC-BY-SA 4.0"
+  },
+  "dataset_size": {
+    "total_pairs": 5775,
+    "train_pairs": 5197,
+    "val_pairs": 578,
+    "train_val_split": "90/10"
+  },
+  "source_stats": {
+    "total_questions": 7861,
+    "questions_with_answers": 5911,
+    "pairs_created": 5775,
+    "min_score_filter": 1
+  },
+  "quality_metrics": {
+    "accepted_answer_ratio": 0.3670995670995671,
+    "avg_question_score": 2.861818181818182,
+    "avg_answer_score": 3.030649350649351
+  },
+  "top_tags": {
+    "|united-kingdom|": 108,
+    "|usa|": 96,
+    "|usa|greencard|": 42,
+    "|germany|": 41,
+    "|usa|visa|": 31,
+    "|united-kingdom|visa|": 28,
+    "|france|": 27,
+    "|germany|blue-card|": 27,
+    "|visa|": 26,
+    "|uk-visa|": 26,
+    "|usa|immigration|": 25,
+    "|usa|citizenship|paperwork|": 25,
+    "|canada|": 24,
+    "|usa|citizenship|": 24,
+    "|australia|": 23,
+    "|united-kingdom|working-visas|": 21,
+    "|united-kingdom|citizenship|": 21,
+    "|driving-license|": 20,
+    "|usa|h1-visa|": 20,
+    "|usa|working-visas|": 18
+  }
+}

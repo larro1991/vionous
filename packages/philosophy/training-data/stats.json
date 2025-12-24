@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "name": "vionous-philosophy",
+    "version": "1.0.0",
+    "created": "2025-12-24T09:56:07.695650",
+    "source": "Philosophy Stack Exchange",
+    "license": "CC-BY-SA 4.0"
+  },
+  "dataset_size": {
+    "total_pairs": 18258,
+    "train_pairs": 16432,
+    "val_pairs": 1826,
+    "train_val_split": "90/10"
+  },
+  "source_stats": {
+    "total_questions": 21616,
+    "questions_with_answers": 19013,
+    "pairs_created": 18258,
+    "min_score_filter": 1
+  },
+  "quality_metrics": {
+    "accepted_answer_ratio": 0.39949611129367946,
+    "avg_question_score": 3.179318654836236,
+    "avg_answer_score": 3.5312191915872493
+  },
+  "top_tags": {
+    "|logic|": 757,
+    "|ethics|": 381,
+    "|fallacies|": 223,
+    "|philosophy-of-science|": 202,
+    "|philosophy-of-mathematics|": 168,
+    "|metaphysics|": 152,
+    "|logic|fallacies|": 124,
+    "|epistemology|": 121,
+    "|philosophy-of-mind|": 106,
+    "|reference-request|": 87,
+    "|history-of-philosophy|": 83,
+    "|logic|symbolic-logic|": 80,
+    "|logic|philosophy-of-mathematics|": 74,
+    "|nietzsche|": 73,
+    "|philosophy-of-religion|": 62,
+    "|theology|": 59,
+    "|terminology|": 59,
+    "|modal-logic|": 58,
+    "|philosophy-of-language|": 58,
+    "|logic|modal-logic|": 55
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "name": "vionous-role-playing games",
+    "version": "1.0.0",
+    "created": "2025-12-24T10:00:42.171859",
+    "source": "Role-playing Games Stack Exchange",
+    "license": "CC-BY-SA 4.0"
+  },
+  "dataset_size": {
+    "total_pairs": 47151,
+    "train_pairs": 42435,
+    "val_pairs": 4716,
+    "train_val_split": "90/10"
+  },
+  "source_stats": {
+    "total_questions": 49580,
+    "questions_with_answers": 47328,
+    "pairs_created": 47151,
+    "min_score_filter": 1
+  },
+  "quality_metrics": {
+    "accepted_answer_ratio": 0.712625395007529,
+    "avg_question_score": 9.572798031855104,
+    "avg_answer_score": 13.23776802188713
+  },
+  "top_tags": {
+    "|dnd-5e|spells|": 897,
+    "|pathfinder-1e|": 685,
+    "|dnd-3.5e|": 413,
+    "|dnd-4e|": 392,
+    "|dnd-5e|magic-items|": 271,
+    "|pathfinder-1e|spells|": 262,
+    "|dnd-5e|": 255,
+    "|dnd-3.5e|spells|": 200,
+    "|dnd-5e|monsters|": 195,
+    "|pathfinder-1e|magic-items|": 142,
+    "|savage-worlds|": 124,
+    "|dnd-3.5e|magic-items|": 115,
+    "|dnd-5e|spells|magic-items|": 112,
+    "|world-of-darkness|vampire-the-masquerade|": 98,
+    "|dungeon-world|": 93,
+    "|game-recommendation|": 91,
+    "|dnd-5e|spells|targeting|": 88,
+    "|shadowrun-sr5|": 85,
+    "|dnd-5e|skills|": 85,
+    "|dnd-3.5e|pathfinder-1e|": 80
+  }
+}

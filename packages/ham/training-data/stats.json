@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "name": "vionous-amateur radio",
+    "version": "1.0.0",
+    "created": "2025-12-24T10:04:25.109530",
+    "source": "Amateur Radio Stack Exchange",
+    "license": "CC-BY-SA 4.0"
+  },
+  "dataset_size": {
+    "total_pairs": 4422,
+    "train_pairs": 3979,
+    "val_pairs": 443,
+    "train_val_split": "90/10"
+  },
+  "source_stats": {
+    "total_questions": 4734,
+    "questions_with_answers": 4461,
+    "pairs_created": 4422,
+    "min_score_filter": 1
+  },
+  "quality_metrics": {
+    "accepted_answer_ratio": 0.5210312075983717,
+    "avg_question_score": 3.7130257801899593,
+    "avg_answer_score": 4.159656264133876
+  },
+  "top_tags": {
+    "|antenna|": 89,
+    "|antenna-theory|": 47,
+    "|antenna|antenna-theory|": 38,
+    "|cw|": 30,
+    "|rfi|": 28,
+    "|software-defined-radio|gnuradio|": 28,
+    "|software-defined-radio|": 26,
+    "|united-states|license|": 25,
+    "|repeater|": 22,
+    "|satellites|": 22,
+    "|united-states|legal|": 19,
+    "|coaxial-cable|": 19,
+    "|antenna-construction|": 19,
+    "|antenna|antenna-construction|": 19,
+    "|gnuradio|": 19,
+    "|baofeng|": 18,
+    "|grounding|": 17,
+    "|morse-code|": 17,
+    "|propagation|": 17,
+    "|aprs|": 15
+  }
+}

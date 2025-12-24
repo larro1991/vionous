@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "name": "vionous-politics",
+    "version": "1.0.0",
+    "created": "2025-12-24T09:56:28.581914",
+    "source": "Politics Stack Exchange",
+    "license": "CC-BY-SA 4.0"
+  },
+  "dataset_size": {
+    "total_pairs": 15910,
+    "train_pairs": 14319,
+    "val_pairs": 1591,
+    "train_val_split": "90/10"
+  },
+  "source_stats": {
+    "total_questions": 17170,
+    "questions_with_answers": 16050,
+    "pairs_created": 15910,
+    "min_score_filter": 1
+  },
+  "quality_metrics": {
+    "accepted_answer_ratio": 0.561659333752357,
+    "avg_question_score": 8.430672532998114,
+    "avg_answer_score": 12.593337523570082
+  },
+  "top_tags": {
+    "|united-states|": 106,
+    "|united-states|congress|": 101,
+    "|european-union|": 81,
+    "|united-kingdom|european-union|brexit|": 79,
+    "|united-states|president|": 78,
+    "|united-states|presidential-election|": 75,
+    "|united-kingdom|brexit|": 67,
+    "|united-states|election|": 65,
+    "|united-kingdom|parliament|": 51,
+    "|united-kingdom|": 50,
+    "|united-states|supreme-court|": 46,
+    "|united-states|donald-trump|": 41,
+    "|united-states|constitution|": 41,
+    "|united-states|voting|": 40,
+    "|india|": 33,
+    "|united-states|senate|": 32,
+    "|political-theory|": 31,
+    "|economy|": 30,
+    "|united-states|healthcare|": 30,
+    "|united-states|senate|senate-rules|": 29
+  }
+}

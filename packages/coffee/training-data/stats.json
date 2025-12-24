@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "name": "vionous-coffee",
+    "version": "1.0.0",
+    "created": "2025-12-24T10:03:14.327471",
+    "source": "Coffee Stack Exchange",
+    "license": "CC-BY-SA 4.0"
+  },
+  "dataset_size": {
+    "total_pairs": 1336,
+    "train_pairs": 1202,
+    "val_pairs": 134,
+    "train_val_split": "90/10"
+  },
+  "source_stats": {
+    "total_questions": 1475,
+    "questions_with_answers": 1364,
+    "pairs_created": 1336,
+    "min_score_filter": 1
+  },
+  "quality_metrics": {
+    "accepted_answer_ratio": 0.5172155688622755,
+    "avg_question_score": 5.8562874251497,
+    "avg_answer_score": 4.549401197604791
+  },
+  "top_tags": {
+    "|espresso|": 32,
+    "|health|": 31,
+    "|moka|": 26,
+    "|espresso-machine|": 22,
+    "|cold-brew|": 22,
+    "|flavor|": 21,
+    "|ground-coffee|": 19,
+    "|beans|": 18,
+    "|health|caffeine|": 17,
+    "|grinder|": 16,
+    "|caffeine|": 16,
+    "|coffee-culture|": 16,
+    "|french-press|": 15,
+    "|espresso|espresso-machine|": 14,
+    "|instant|": 13,
+    "|roasting|": 13,
+    "|aeropress|": 12,
+    "|brewing-process|": 12,
+    "|coffee-machines|": 11,
+    "|storage|": 10
+  }
+}

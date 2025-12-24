@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "name": "vionous-home improvement",
+    "version": "1.0.0",
+    "created": "2025-12-24T10:02:20.986203",
+    "source": "Home Improvement Stack Exchange",
+    "license": "CC-BY-SA 4.0"
+  },
+  "dataset_size": {
+    "total_pairs": 70629,
+    "train_pairs": 63566,
+    "val_pairs": 7063,
+    "train_val_split": "90/10"
+  },
+  "source_stats": {
+    "total_questions": 84628,
+    "questions_with_answers": 73185,
+    "pairs_created": 70629,
+    "min_score_filter": 1
+  },
+  "quality_metrics": {
+    "accepted_answer_ratio": 0.4015772558014413,
+    "avg_question_score": 1.948052499681434,
+    "avg_answer_score": 3.3916946296846904
+  },
+  "top_tags": {
+    "|electrical|": 2941,
+    "|plumbing|": 982,
+    "|electrical|wiring|": 962,
+    "|wiring|": 714,
+    "|hvac|": 563,
+    "|electrical|electrical-panel|": 368,
+    "|electrical-panel|": 290,
+    "|electrical|receptacle|": 262,
+    "|doors|": 255,
+    "|lighting|": 249,
+    "|drywall|": 236,
+    "|electrical|lighting|": 236,
+    "|toilet|": 227,
+    "|water-heater|": 214,
+    "|windows|": 214,
+    "|insulation|": 210,
+    "|air-conditioning|": 199,
+    "|flooring|": 192,
+    "|concrete|": 184,
+    "|electrical|gfci|": 177
+  }
+}

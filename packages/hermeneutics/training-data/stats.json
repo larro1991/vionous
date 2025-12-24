@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "name": "vionous-biblical hermeneutics",
+    "version": "1.0.0",
+    "created": "2025-12-24T09:57:37.850310",
+    "source": "Biblical Hermeneutics Stack Exchange",
+    "license": "CC-BY-SA 4.0"
+  },
+  "dataset_size": {
+    "total_pairs": 14121,
+    "train_pairs": 12708,
+    "val_pairs": 1413,
+    "train_val_split": "90/10"
+  },
+  "source_stats": {
+    "total_questions": 14767,
+    "questions_with_answers": 14434,
+    "pairs_created": 14121,
+    "min_score_filter": 1
+  },
+  "quality_metrics": {
+    "accepted_answer_ratio": 0.4482685362226471,
+    "avg_question_score": 3.9943346788471072,
+    "avg_answer_score": 3.292330571489271
+  },
+  "top_tags": {
+    "|genesis|": 216,
+    "|john|": 201,
+    "|matthew|": 157,
+    "|revelation|": 131,
+    "|isaiah|": 100,
+    "|psalms|": 100,
+    "|exodus|": 93,
+    "|luke|": 88,
+    "|acts|": 86,
+    "|romans|": 84,
+    "|word-study|": 75,
+    "|1-corinthians|": 74,
+    "|hebrews|": 65,
+    "|john|jesus|": 59,
+    "|mark|": 56,
+    "|judges|": 54,
+    "|hermeneutical-approaches|": 53,
+    "|ezekiel|": 50,
+    "|leviticus|": 49,
+    "|greek|john|": 47
+  }
+}

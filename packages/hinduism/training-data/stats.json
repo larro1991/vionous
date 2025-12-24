@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "name": "vionous-hinduism",
+    "version": "1.0.0",
+    "created": "2025-12-24T09:58:27.250085",
+    "source": "Hinduism Stack Exchange",
+    "license": "CC-BY-SA 4.0"
+  },
+  "dataset_size": {
+    "total_pairs": 11346,
+    "train_pairs": 10211,
+    "val_pairs": 1135,
+    "train_val_split": "90/10"
+  },
+  "source_stats": {
+    "total_questions": 18348,
+    "questions_with_answers": 11732,
+    "pairs_created": 11346,
+    "min_score_filter": 1
+  },
+  "quality_metrics": {
+    "accepted_answer_ratio": 0.4865150713907985,
+    "avg_question_score": 5.560021152829191,
+    "avg_answer_score": 4.740877842411423
+  },
+  "top_tags": {
+    "|mahabharata|": 71,
+    "|bhagavad-gita|": 63,
+    "|vedas|": 52,
+    "|gods|": 50,
+    "|scripture|": 48,
+    "|mantras|": 45,
+    "|karma|": 42,
+    "|shiva|": 40,
+    "|ramayana|": 35,
+    "|krishna|": 31,
+    "|krishna|bhagavad-gita|": 29,
+    "|mahabharata|krishna|": 28,
+    "|vishnu|": 27,
+    "|belief|": 25,
+    "|ramayana|rama|": 24,
+    "|yoga|": 24,
+    "|astrology|": 23,
+    "|puranas|": 23,
+    "|vishnu|avatars|": 22,
+    "|temple|": 22
+  }
+}

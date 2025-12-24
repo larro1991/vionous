@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "name": "vionous-buddhism",
+    "version": "1.0.0",
+    "created": "2025-12-24T09:58:18.916909",
+    "source": "Buddhism Stack Exchange",
+    "license": "CC-BY-SA 4.0"
+  },
+  "dataset_size": {
+    "total_pairs": 8192,
+    "train_pairs": 7372,
+    "val_pairs": 820,
+    "train_val_split": "90/10"
+  },
+  "source_stats": {
+    "total_questions": 8492,
+    "questions_with_answers": 8349,
+    "pairs_created": 8192,
+    "min_score_filter": 1
+  },
+  "quality_metrics": {
+    "accepted_answer_ratio": 0.41015625,
+    "avg_question_score": 3.116455078125,
+    "avg_answer_score": 3.2872314453125
+  },
+  "top_tags": {
+    "|theravada|": 141,
+    "|meditation|": 120,
+    "|karma|": 98,
+    "|personal-practice|": 91,
+    "|pali-canon|": 75,
+    "|the-buddha|": 71,
+    "|philosophy|": 61,
+    "|vipassana|": 56,
+    "|nirvana|": 53,
+    "|reference-request|": 49,
+    "|mindfulness|": 47,
+    "|sutras|": 40,
+    "|jhana|": 38,
+    "|terminology|": 37,
+    "|buddha|": 36,
+    "|rebirth|": 36,
+    "|lay-buddhism|": 35,
+    "|meditation-practicalities|": 34,
+    "|pratityasamutpada|": 31,
+    "|ethics|": 30
+  }
+}

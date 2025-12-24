@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "name": "vionous-anime & manga",
+    "version": "1.0.0",
+    "created": "2025-12-24T09:59:48.816585",
+    "source": "Anime & Manga Stack Exchange",
+    "license": "CC-BY-SA 4.0"
+  },
+  "dataset_size": {
+    "total_pairs": 10804,
+    "train_pairs": 9723,
+    "val_pairs": 1081,
+    "train_val_split": "90/10"
+  },
+  "source_stats": {
+    "total_questions": 12374,
+    "questions_with_answers": 11150,
+    "pairs_created": 10804,
+    "min_score_filter": 1
+  },
+  "quality_metrics": {
+    "accepted_answer_ratio": 0.6106997408367272,
+    "avg_question_score": 5.078489448352462,
+    "avg_answer_score": 5.079415031469826
+  },
+  "top_tags": {
+    "|naruto|": 1229,
+    "|one-piece|": 627,
+    "|attack-on-titan|": 275,
+    "|fairy-tail|": 203,
+    "|death-note|": 195,
+    "|my-hero-academia|": 171,
+    "|bleach|": 170,
+    "|anime-production|": 160,
+    "|pokemon|": 138,
+    "|hunter-x-hunter|": 136,
+    "|tropes|": 131,
+    "|dragon-ball-series|dragon-ball-super|": 124,
+    "|sword-art-online|": 121,
+    "|one-punch-man|": 115,
+    "|tokyo-ghoul|": 93,
+    "|monogatari-series|": 82,
+    "|dragon-ball-series|": 76,
+    "|code-geass|": 76,
+    "|dragon-ball-super|": 74,
+    "|fullmetal-alchemist-series|fullmetal-alchemist-brotherhood|": 70
+  }
+}

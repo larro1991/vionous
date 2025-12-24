@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "name": "vionous-pets",
+    "version": "1.0.0",
+    "created": "2025-12-24T10:02:34.954554",
+    "source": "Pets Stack Exchange",
+    "license": "CC-BY-SA 4.0"
+  },
+  "dataset_size": {
+    "total_pairs": 6892,
+    "train_pairs": 6202,
+    "val_pairs": 690,
+    "train_val_split": "90/10"
+  },
+  "source_stats": {
+    "total_questions": 8360,
+    "questions_with_answers": 7038,
+    "pairs_created": 6892,
+    "min_score_filter": 1
+  },
+  "quality_metrics": {
+    "accepted_answer_ratio": 0.4497968659315148,
+    "avg_question_score": 4.890452698781195,
+    "avg_answer_score": 5.07617527568195
+  },
+  "top_tags": {
+    "|cats|behavior|": 208,
+    "|cats|": 195,
+    "|dogs|": 155,
+    "|dogs|behavior|": 125,
+    "|dogs|training|": 81,
+    "|cats|health|": 80,
+    "|cats|diet|": 60,
+    "|dogs|behavior|training|": 57,
+    "|cats|toilet-training|": 45,
+    "|dogs|health|": 43,
+    "|dogs|toilet-training|": 41,
+    "|cats|feeding|": 41,
+    "|dogs|diet|": 34,
+    "|cats|behavior|psychology|": 34,
+    "|cats|training|": 28,
+    "|cats|grooming|": 26,
+    "|cats|psychology|": 26,
+    "|cats|medicines|": 24,
+    "|cats|behavior|training|": 23,
+    "|cats|safety|": 22
+  }
+}

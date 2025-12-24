@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "name": "vionous-chess",
+    "version": "1.0.0",
+    "created": "2025-12-24T10:00:58.526657",
+    "source": "Chess Stack Exchange",
+    "license": "CC-BY-SA 4.0"
+  },
+  "dataset_size": {
+    "total_pairs": 8544,
+    "train_pairs": 7689,
+    "val_pairs": 855,
+    "train_val_split": "90/10"
+  },
+  "source_stats": {
+    "total_questions": 8955,
+    "questions_with_answers": 8622,
+    "pairs_created": 8544,
+    "min_score_filter": 1
+  },
+  "quality_metrics": {
+    "accepted_answer_ratio": 0.5815777153558053,
+    "avg_question_score": 5.869264981273409,
+    "avg_answer_score": 6.948150749063671
+  },
+  "top_tags": {
+    "|opening|": 157,
+    "|engines|": 128,
+    "|analysis|": 108,
+    "|learning|": 61,
+    "|software|": 52,
+    "|tournament|": 50,
+    "|strategy|": 42,
+    "|chess-variants|": 40,
+    "|psychology|": 39,
+    "|rules|": 38,
+    "|online-chess|": 38,
+    "|rating|": 38,
+    "|endgame|": 37,
+    "|opening|sicilian-defense|": 36,
+    "|engines|stockfish|": 33,
+    "|engines|programming|": 31,
+    "|rules|fide|": 31,
+    "|problems|": 31,
+    "|pgn|": 30,
+    "|opening|caro-kann|": 29
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "name": "vionous-music",
+    "version": "1.0.0",
+    "created": "2025-12-24T09:58:47.982334",
+    "source": "Music Stack Exchange",
+    "license": "CC-BY-SA 4.0"
+  },
+  "dataset_size": {
+    "total_pairs": 24332,
+    "train_pairs": 21898,
+    "val_pairs": 2434,
+    "train_val_split": "90/10"
+  },
+  "source_stats": {
+    "total_questions": 25722,
+    "questions_with_answers": 24646,
+    "pairs_created": 24332,
+    "min_score_filter": 1
+  },
+  "quality_metrics": {
+    "accepted_answer_ratio": 0.5239602169981917,
+    "avg_question_score": 4.773672530001644,
+    "avg_answer_score": 5.655022192996877
+  },
+  "top_tags": {
+    "|piano|": 242,
+    "|theory|": 233,
+    "|lilypond|": 231,
+    "|voice|": 226,
+    "|guitar|": 214,
+    "|notation|": 182,
+    "|electric-guitar|": 144,
+    "|chords|": 118,
+    "|chord-theory|": 117,
+    "|piano|fingering|": 97,
+    "|terminology|": 97,
+    "|piano|notation|": 87,
+    "|guitar|chords|": 81,
+    "|harmony|": 78,
+    "|theory|scales|": 77,
+    "|scales|": 75,
+    "|composition|": 75,
+    "|time-signatures|": 73,
+    "|chord-progressions|": 72,
+    "|chords|chord-theory|": 66
+  }
+}

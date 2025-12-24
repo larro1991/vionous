@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "name": "vionous-ux design",
+    "version": "1.0.0",
+    "created": "2025-12-24T09:59:32.032505",
+    "source": "UX Design Stack Exchange",
+    "license": "CC-BY-SA 4.0"
+  },
+  "dataset_size": {
+    "total_pairs": 31277,
+    "train_pairs": 28149,
+    "val_pairs": 3128,
+    "train_val_split": "90/10"
+  },
+  "source_stats": {
+    "total_questions": 32718,
+    "questions_with_answers": 32227,
+    "pairs_created": 31277,
+    "min_score_filter": 1
+  },
+  "quality_metrics": {
+    "accepted_answer_ratio": 0.506826102247658,
+    "avg_question_score": 5.334494996323177,
+    "avg_answer_score": 5.855293026824824
+  },
+  "top_tags": {
+    "|gui-design|": 164,
+    "|website-design|": 161,
+    "|usability|": 147,
+    "|forms|": 146,
+    "|terminology|": 106,
+    "|navigation|": 105,
+    "|icons|": 97,
+    "|search|": 81,
+    "|usability-testing|": 79,
+    "|interaction-design|": 78,
+    "|accessibility|": 59,
+    "|user-behavior|": 59,
+    "|android|": 57,
+    "|buttons|": 54,
+    "|tables|": 52,
+    "|design-patterns|": 45,
+    "|mobile|": 43,
+    "|user-research|": 43,
+    "|info-visualisation|": 39,
+    "|physical|": 38
+  }
+}

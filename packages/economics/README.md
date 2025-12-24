@@ -1,0 +1,82 @@
+# Vionous Knowledge Package: Economics
+
+A training dataset for teaching AI about economic theory and policy.
+
+## Overview
+
+| Property | Value |
+|----------|-------|
+| **Domain** | Economics |
+| **Temperature** | 🌡️ Warm |
+| **Q&A Pairs** | 11,783 |
+| **Train/Val Split** | 90/10 (10,604 / 1,179) |
+| **Source** | Economics Stack Exchange |
+| **License** | CC-BY-SA 4.0 |
+| **Compatible** | Llama architecture models |
+
+## Temperature Explanation
+
+**Warm** - economic theory and policy. The knowledge base is actively maintained and updated by the community.
+
+## Top Topics
+
+|microeconomics|, |macroeconomics|, |econometrics|, |game-theory|, |gdp|, |mathematical-economics|, |stock-market|, |supply-and-demand|, |game-theory|nash-equilibrium|, |inflation|
+
+## Dataset Contents
+
+Training pairs derived from Stack Exchange Q&A:
+- Questions with accepted or high-scoring answers
+- Filtered for quality (Score >= 1)
+- HTML cleaned, code blocks preserved
+
+## Example Q&A Pairs
+
+```json
+{"question": "How do I [common task]?", "answer": "Here's how to do it..."}
+```
+
+## File Structure
+
+```
+economics/
+├── README.md
+├── SOURCES.md
+├── LICENSE
+├── training-data/
+│   ├── train.jsonl        (10,604 pairs)
+│   ├── val.jsonl          (1,179 pairs)
+│   └── stats.json
+├── config/
+│   └── train_config.yaml
+├── tests/
+│   └── validation_questions.jsonl
+└── notebooks/
+    └── vionous_economics_trainer.ipynb
+```
+
+## Usage
+
+### Quick Start (Google Colab)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/larro1991/vionous/blob/main/packages/economics/notebooks/vionous_economics_trainer.ipynb)
+
+### Manual Training
+
+```python
+from datasets import load_dataset
+
+dataset = load_dataset("json", data_files="training-data/train.jsonl")
+```
+
+## License
+
+CC-BY-SA 4.0 - See LICENSE file
+
+Data sourced from Economics Stack Exchange (https://economics.stackexchange.com)
+
+## Citation
+
+```
+Economics Stack Exchange
+Licensed under CC-BY-SA 4.0
+```

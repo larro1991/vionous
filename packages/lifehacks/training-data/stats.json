@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "name": "vionous-lifehacks",
+    "version": "1.0.0",
+    "created": "2025-12-24T10:02:43.135307",
+    "source": "Lifehacks Stack Exchange",
+    "license": "CC-BY-SA 4.0"
+  },
+  "dataset_size": {
+    "total_pairs": 2963,
+    "train_pairs": 2666,
+    "val_pairs": 297,
+    "train_val_split": "90/10"
+  },
+  "source_stats": {
+    "total_questions": 3075,
+    "questions_with_answers": 3013,
+    "pairs_created": 2963,
+    "min_score_filter": 1
+  },
+  "quality_metrics": {
+    "accepted_answer_ratio": 0.46473169085386434,
+    "avg_question_score": 5.435369557880526,
+    "avg_answer_score": 5.762402969962875
+  },
+  "top_tags": {
+    "|cleaning|": 78,
+    "|clothing|": 75,
+    "|personal-care|": 67,
+    "|food|": 62,
+    "|technology|": 58,
+    "|home|": 49,
+    "|cleaning|clothing|": 35,
+    "|kitchen|": 27,
+    "|shoes|": 23,
+    "|cleaning|kitchen|": 22,
+    "|bathroom|": 22,
+    "|hair|": 21,
+    "|car|": 20,
+    "|food|kitchen|": 19,
+    "|cleaning|shoes|": 18,
+    "|substitute-tool|": 18,
+    "|phone|": 18,
+    "|storage|": 17,
+    "|cleaning|home|": 17,
+    "|personal-care|hair|": 17
+  }
+}

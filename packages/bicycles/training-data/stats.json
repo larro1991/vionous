@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "name": "vionous-bicycles",
+    "version": "1.0.0",
+    "created": "2025-12-24T10:01:33.990387",
+    "source": "Bicycles Stack Exchange",
+    "license": "CC-BY-SA 4.0"
+  },
+  "dataset_size": {
+    "total_pairs": 19765,
+    "train_pairs": 17788,
+    "val_pairs": 1977,
+    "train_val_split": "90/10"
+  },
+  "source_stats": {
+    "total_questions": 20889,
+    "questions_with_answers": 19987,
+    "pairs_created": 19765,
+    "min_score_filter": 1
+  },
+  "quality_metrics": {
+    "accepted_answer_ratio": 0.5070579306855553,
+    "avg_question_score": 4.457121173792057,
+    "avg_answer_score": 5.746015684290413
+  },
+  "top_tags": {
+    "|tire|": 236,
+    "|brakes|": 185,
+    "|mountain-bike|": 180,
+    "|chain|": 159,
+    "|identify-this-bike|": 149,
+    "|bottom-bracket|": 138,
+    "|wheels|": 126,
+    "|road-bike|": 125,
+    "|crankset|": 124,
+    "|frames|": 97,
+    "|maintenance|": 81,
+    "|gears|": 78,
+    "|derailleur|": 75,
+    "|derailleur-rear|": 71,
+    "|chainring|": 68,
+    "|electric-bike|": 65,
+    "|headset|": 63,
+    "|disc-brake|": 62,
+    "|shimano|": 59,
+    "|hydraulic-disc-brake|": 59
+  }
+}

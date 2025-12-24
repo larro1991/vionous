@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "name": "vionous-3d printing",
+    "version": "1.0.0",
+    "created": "2025-12-24T10:04:28.933954",
+    "source": "3D Printing Stack Exchange",
+    "license": "CC-BY-SA 4.0"
+  },
+  "dataset_size": {
+    "total_pairs": 4804,
+    "train_pairs": 4323,
+    "val_pairs": 481,
+    "train_val_split": "90/10"
+  },
+  "source_stats": {
+    "total_questions": 5735,
+    "questions_with_answers": 4920,
+    "pairs_created": 4804,
+    "min_score_filter": 1
+  },
+  "quality_metrics": {
+    "accepted_answer_ratio": 0.526436303080766,
+    "avg_question_score": 3.5374687760199834,
+    "avg_answer_score": 3.186094920899251
+  },
+  "top_tags": {
+    "|print-quality|": 52,
+    "|3d-models|": 50,
+    "|creality-ender-3|": 46,
+    "|ultimaker-cura|": 46,
+    "|3d-design|": 43,
+    "|filament|": 35,
+    "|g-code|": 28,
+    "|heated-bed|": 26,
+    "|marlin|": 26,
+    "|openscad|": 23,
+    "|extruder|": 23,
+    "|ultimaker-cura|slicing|": 21,
+    "|resin|": 19,
+    "|prusa-i3|": 17,
+    "|3d-models|3d-design|": 17,
+    "|diy-3d-printer|": 17,
+    "|ultimaker-cura|g-code|": 15,
+    "|octoprint|": 14,
+    "|software|": 14,
+    "|hotend|": 14
+  }
+}

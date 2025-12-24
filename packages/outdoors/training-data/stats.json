@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "name": "vionous-outdoors",
+    "version": "1.0.0",
+    "created": "2025-12-24T10:01:38.407547",
+    "source": "Outdoors Stack Exchange",
+    "license": "CC-BY-SA 4.0"
+  },
+  "dataset_size": {
+    "total_pairs": 5864,
+    "train_pairs": 5277,
+    "val_pairs": 587,
+    "train_val_split": "90/10"
+  },
+  "source_stats": {
+    "total_questions": 6168,
+    "questions_with_answers": 5888,
+    "pairs_created": 5864,
+    "min_score_filter": 1
+  },
+  "quality_metrics": {
+    "accepted_answer_ratio": 0.6545020463847203,
+    "avg_question_score": 10.04399727148704,
+    "avg_answer_score": 9.847032742155525
+  },
+  "top_tags": {
+    "|hiking|": 28,
+    "|fishing|": 28,
+    "|backpacks|": 26,
+    "|camping|tents|": 24,
+    "|sailing|": 23,
+    "|gear|": 22,
+    "|knots|": 19,
+    "|geocaching|": 19,
+    "|rock-climbing|": 19,
+    "|kayaks|": 18,
+    "|gear|archery|": 18,
+    "|backpacking|": 18,
+    "|water-purification|": 18,
+    "|survival|": 16,
+    "|bugs|": 16,
+    "|clothing|": 15,
+    "|knives|": 15,
+    "|birds|bird-behaviour|": 15,
+    "|scuba-diving|": 15,
+    "|rock-climbing|climbing|": 14
+  }
+}

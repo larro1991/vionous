@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "name": "vionous-workplace",
+    "version": "1.0.0",
+    "created": "2025-12-24T10:03:45.271390",
+    "source": "Workplace Stack Exchange",
+    "license": "CC-BY-SA 4.0"
+  },
+  "dataset_size": {
+    "total_pairs": 31600,
+    "train_pairs": 28440,
+    "val_pairs": 3160,
+    "train_val_split": "90/10"
+  },
+  "source_stats": {
+    "total_questions": 32002,
+    "questions_with_answers": 31814,
+    "pairs_created": 31600,
+    "min_score_filter": 1
+  },
+  "quality_metrics": {
+    "accepted_answer_ratio": 0.48050632911392405,
+    "avg_question_score": 10.66373417721519,
+    "avg_answer_score": 20.829493670886077
+  },
+  "top_tags": {
+    "|interviewing|": 728,
+    "|resume|": 465,
+    "|professionalism|": 277,
+    "|management|": 242,
+    "|communication|": 221,
+    "|salary|": 185,
+    "|job-offer|": 181,
+    "|job-search|": 167,
+    "|work-environment|": 156,
+    "|colleagues|": 156,
+    "|recruitment|": 140,
+    "|resignation|": 140,
+    "|interviewing|job-search|": 112,
+    "|career-development|": 111,
+    "|software-industry|": 107,
+    "|applications|": 97,
+    "|salary|negotiation|": 93,
+    "|professionalism|communication|": 92,
+    "|job-change|": 87,
+    "|new-job|": 86
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "name": "vionous-travel",
+    "version": "1.0.0",
+    "created": "2025-12-24T10:02:57.830936",
+    "source": "Travel Stack Exchange",
+    "license": "CC-BY-SA 4.0"
+  },
+  "dataset_size": {
+    "total_pairs": 42261,
+    "train_pairs": 38034,
+    "val_pairs": 4227,
+    "train_val_split": "90/10"
+  },
+  "source_stats": {
+    "total_questions": 48768,
+    "questions_with_answers": 42840,
+    "pairs_created": 42261,
+    "min_score_filter": 1
+  },
+  "quality_metrics": {
+    "accepted_answer_ratio": 0.45725373275596887,
+    "avg_question_score": 6.522065261115449,
+    "avg_answer_score": 8.32206999361113
+  },
+  "top_tags": {
+    "|visas|uk|": 258,
+    "|visas|schengen|": 225,
+    "|visas|": 184,
+    "|air-travel|": 182,
+    "|visas|usa|": 139,
+    "|schengen|": 109,
+    "|passports|": 89,
+    "|customs-and-immigration|": 84,
+    "|schengen-visas|": 80,
+    "|usa|customs-and-immigration|": 79,
+    "|luggage|": 70,
+    "|visas|uk|standard-visitor-visas|": 65,
+    "|visas|usa|b1-b2-visas|": 54,
+    "|uk|standard-visitor-visas|": 50,
+    "|air-travel|tickets|": 49,
+    "|air-travel|luggage|": 46,
+    "|visas|china|": 45,
+    "|visas|uk|applications|": 44,
+    "|usa|": 44,
+    "|hotels|": 43
+  }
+}

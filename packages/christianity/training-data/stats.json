@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "name": "vionous-christianity",
+    "version": "1.0.0",
+    "created": "2025-12-24T09:57:51.481934",
+    "source": "Christianity Stack Exchange",
+    "license": "CC-BY-SA 4.0"
+  },
+  "dataset_size": {
+    "total_pairs": 15536,
+    "train_pairs": 13982,
+    "val_pairs": 1554,
+    "train_val_split": "90/10"
+  },
+  "source_stats": {
+    "total_questions": 16728,
+    "questions_with_answers": 15756,
+    "pairs_created": 15536,
+    "min_score_filter": 1
+  },
+  "quality_metrics": {
+    "accepted_answer_ratio": 0.5172502574665293,
+    "avg_question_score": 5.012100926879506,
+    "avg_answer_score": 5.2926750772399584
+  },
+  "top_tags": {
+    "|catholicism|": 109,
+    "|bible|": 82,
+    "|life-of-jesus|": 55,
+    "|lds|": 52,
+    "|nature-of-god|": 49,
+    "|prayer|": 37,
+    "|biblical-basis|": 32,
+    "|exegesis|": 29,
+    "|terminology|": 28,
+    "|soteriology|": 28,
+    "|jehovahs-witnesses|": 27,
+    "|faith|": 23,
+    "|catholicism|papacy|": 23,
+    "|catholicism|marriage|": 22,
+    "|trinity|": 22,
+    "|history|": 21,
+    "|catholicism|confession|": 21,
+    "|satan|": 21,
+    "|catholicism|baptism|": 20,
+    "|heaven|": 19
+  }
+}

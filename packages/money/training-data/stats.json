@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "name": "vionous-personal finance",
+    "version": "1.0.0",
+    "created": "2025-12-24T09:56:48.538363",
+    "source": "Personal Finance Stack Exchange",
+    "license": "CC-BY-SA 4.0"
+  },
+  "dataset_size": {
+    "total_pairs": 35046,
+    "train_pairs": 31541,
+    "val_pairs": 3505,
+    "train_val_split": "90/10"
+  },
+  "source_stats": {
+    "total_questions": 38860,
+    "questions_with_answers": 35727,
+    "pairs_created": 35046,
+    "min_score_filter": 1
+  },
+  "quality_metrics": {
+    "accepted_answer_ratio": 0.4992010500485077,
+    "avg_question_score": 4.264680705358671,
+    "avg_answer_score": 6.669891000399475
+  },
+  "top_tags": {
+    "|stocks|": 292,
+    "|united-states|taxes|": 218,
+    "|credit-card|": 160,
+    "|investing|": 141,
+    "|united-states|income-tax|": 140,
+    "|options|": 128,
+    "|gnucash|": 110,
+    "|united-states|taxes|income-tax|": 108,
+    "|scams|": 96,
+    "|mortgage|": 89,
+    "|stocks|stock-markets|": 78,
+    "|bonds|": 75,
+    "|credit-card|credit-score|": 71,
+    "|banking|": 68,
+    "|real-estate|": 63,
+    "|income-tax|india|": 59,
+    "|united-states|401k|": 58,
+    "|united-states|health-insurance|": 58,
+    "|united-states|mortgage|": 55,
+    "|foreign-exchange|": 52
+  }
+}

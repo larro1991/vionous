@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "name": "vionous-motor vehicles",
+    "version": "1.0.0",
+    "created": "2025-12-24T10:03:08.570156",
+    "source": "Motor Vehicles Stack Exchange",
+    "license": "CC-BY-SA 4.0"
+  },
+  "dataset_size": {
+    "total_pairs": 20344,
+    "train_pairs": 18309,
+    "val_pairs": 2035,
+    "train_val_split": "90/10"
+  },
+  "source_stats": {
+    "total_questions": 27266,
+    "questions_with_answers": 21970,
+    "pairs_created": 20344,
+    "min_score_filter": 1
+  },
+  "quality_metrics": {
+    "accepted_answer_ratio": 0.4425874950845458,
+    "avg_question_score": 3.3101651592607158,
+    "avg_answer_score": 3.4038045615414863
+  },
+  "top_tags": {
+    "|tires|": 197,
+    "|battery|": 152,
+    "|engine|": 142,
+    "|brakes|": 125,
+    "|electrical|": 91,
+    "|oil|": 77,
+    "|tires|sidewall-damage|": 50,
+    "|obd-ii|": 48,
+    "|wheels|": 48,
+    "|audio|": 45,
+    "|ac|": 44,
+    "|fuel-system|": 41,
+    "|transmission|": 41,
+    "|tools|": 40,
+    "|tires|wheels|": 39,
+    "|electrical|battery|": 39,
+    "|oil-change|": 36,
+    "|starting|": 32,
+    "|automatic-transmission|": 32,
+    "|engine-theory|": 32
+  }
+}

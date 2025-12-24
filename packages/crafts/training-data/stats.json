@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "name": "vionous-arts & crafts",
+    "version": "1.0.0",
+    "created": "2025-12-24T09:59:33.951366",
+    "source": "Arts & Crafts Stack Exchange",
+    "license": "CC-BY-SA 4.0"
+  },
+  "dataset_size": {
+    "total_pairs": 2202,
+    "train_pairs": 1981,
+    "val_pairs": 221,
+    "train_val_split": "90/10"
+  },
+  "source_stats": {
+    "total_questions": 2305,
+    "questions_with_answers": 2224,
+    "pairs_created": 2202,
+    "min_score_filter": 1
+  },
+  "quality_metrics": {
+    "accepted_answer_ratio": 0.5227066303360581,
+    "avg_question_score": 4.545867393278837,
+    "avg_answer_score": 4.557674841053587
+  },
+  "top_tags": {
+    "|sewing|": 50,
+    "|drawing|": 42,
+    "|material-selection|": 34,
+    "|knitting|": 32,
+    "|adhesives|": 30,
+    "|painting|": 27,
+    "|paper|": 21,
+    "|crocheting|": 19,
+    "|sewing|sewing-machine|": 19,
+    "|terminology|": 17,
+    "|fabric|": 16,
+    "|paint|": 15,
+    "|sewing-machine|": 14,
+    "|jewelry|": 13,
+    "|metalworking|": 13,
+    "|pens|": 12,
+    "|origami|": 12,
+    "|wood|": 12,
+    "|epoxy-resin|": 11,
+    "|paper|origami|": 10
+  }
+}

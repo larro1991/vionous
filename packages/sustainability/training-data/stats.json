@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "name": "vionous-sustainability",
+    "version": "1.0.0",
+    "created": "2025-12-24T10:04:21.793566",
+    "source": "Sustainability Stack Exchange",
+    "license": "CC-BY-SA 4.0"
+  },
+  "dataset_size": {
+    "total_pairs": 1965,
+    "train_pairs": 1768,
+    "val_pairs": 197,
+    "train_val_split": "90/10"
+  },
+  "source_stats": {
+    "total_questions": 2154,
+    "questions_with_answers": 1991,
+    "pairs_created": 1965,
+    "min_score_filter": 1
+  },
+  "quality_metrics": {
+    "accepted_answer_ratio": 0.4676844783715013,
+    "avg_question_score": 6.731806615776081,
+    "avg_answer_score": 5.282442748091603
+  },
+  "top_tags": {
+    "|solar-power|": 42,
+    "|composting|": 22,
+    "|recycling|": 20,
+    "|recycling|plastic|": 16,
+    "|waste|": 14,
+    "|heating|": 13,
+    "|batteries|": 11,
+    "|energy|": 11,
+    "|aquaponics|": 10,
+    "|composting|vermicomposting|": 9,
+    "|environmental-impact|": 9,
+    "|solar-power|photovoltaics|": 9,
+    "|recycling|waste|": 9,
+    "|carbon-footprint|": 8,
+    "|solar-power|batteries|": 8,
+    "|reuse|": 8,
+    "|vermicomposting|": 8,
+    "|water|": 7,
+    "|food|": 7,
+    "|electric-vehicles|": 7
+  }
+}

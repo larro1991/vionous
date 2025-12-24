@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "name": "vionous-mythology",
+    "version": "1.0.0",
+    "created": "2025-12-24T09:57:16.576176",
+    "source": "Mythology Stack Exchange",
+    "license": "CC-BY-SA 4.0"
+  },
+  "dataset_size": {
+    "total_pairs": 1781,
+    "train_pairs": 1602,
+    "val_pairs": 179,
+    "train_val_split": "90/10"
+  },
+  "source_stats": {
+    "total_questions": 2038,
+    "questions_with_answers": 1808,
+    "pairs_created": 1781,
+    "min_score_filter": 1
+  },
+  "quality_metrics": {
+    "accepted_answer_ratio": 0.545199326221224,
+    "avg_question_score": 7.3464345873105,
+    "avg_answer_score": 6.0359348680516565
+  },
+  "top_tags": {
+    "|greek|": 107,
+    "|norse|": 29,
+    "|myth-identification|": 28,
+    "|egyptian|": 28,
+    "|folklore|": 19,
+    "|comparative|": 18,
+    "|mythical-creatures|": 16,
+    "|greek|zeus|": 14,
+    "|greek|myth-identification|": 14,
+    "|greek|mythical-creatures|": 14,
+    "|norse|odin|": 12,
+    "|hindu|": 12,
+    "|norse|ragnarok|": 11,
+    "|greek|titans|": 9,
+    "|greek|underworld|": 8,
+    "|chinese|": 8,
+    "|folklore|origins|": 7,
+    "|japanese|shinto|": 7,
+    "|christianity|": 7,
+    "|greek|pandora|": 7
+  }
+}

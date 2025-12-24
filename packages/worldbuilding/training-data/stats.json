@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "name": "vionous-worldbuilding",
+    "version": "1.0.0",
+    "created": "2025-12-24T10:00:16.825996",
+    "source": "Worldbuilding Stack Exchange",
+    "license": "CC-BY-SA 4.0"
+  },
+  "dataset_size": {
+    "total_pairs": 36614,
+    "train_pairs": 32952,
+    "val_pairs": 3662,
+    "train_val_split": "90/10"
+  },
+  "source_stats": {
+    "total_questions": 37506,
+    "questions_with_answers": 36827,
+    "pairs_created": 36614,
+    "min_score_filter": 1
+  },
+  "quality_metrics": {
+    "accepted_answer_ratio": 0.5251816245152128,
+    "avg_question_score": 8.042142349920795,
+    "avg_answer_score": 11.408641503250124
+  },
+  "top_tags": {
+    "|magic|": 191,
+    "|science-based|": 147,
+    "|internal-consistency|": 118,
+    "|science-based|biology|": 92,
+    "|creature-design|": 91,
+    "|time-travel|": 86,
+    "|society|": 84,
+    "|biology|": 78,
+    "|science-based|internal-consistency|": 66,
+    "|weapons|": 64,
+    "|super-powers|": 64,
+    "|language|": 63,
+    "|society|magic|": 57,
+    "|science-fiction|": 57,
+    "|warfare|": 54,
+    "|science-based|technology|": 51,
+    "|biology|creature-design|": 51,
+    "|science-based|weapons|": 50,
+    "|planets|": 48,
+    "|science-based|planets|": 47
+  }
+}

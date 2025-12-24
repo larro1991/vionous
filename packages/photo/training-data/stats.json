@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "name": "vionous-photography",
+    "version": "1.0.0",
+    "created": "2025-12-24T09:59:06.904506",
+    "source": "Photography Stack Exchange",
+    "license": "CC-BY-SA 4.0"
+  },
+  "dataset_size": {
+    "total_pairs": 25619,
+    "train_pairs": 23057,
+    "val_pairs": 2562,
+    "train_val_split": "90/10"
+  },
+  "source_stats": {
+    "total_questions": 26937,
+    "questions_with_answers": 26155,
+    "pairs_created": 25619,
+    "min_score_filter": 1
+  },
+  "quality_metrics": {
+    "accepted_answer_ratio": 0.5430735001366174,
+    "avg_question_score": 4.418478473008314,
+    "avg_answer_score": 5.770599945353058
+  },
+  "top_tags": {
+    "|lightroom|": 128,
+    "|lens|": 119,
+    "|canon|": 106,
+    "|equipment-recommendation|": 69,
+    "|nikon|": 64,
+    "|photoshop|": 63,
+    "|lens|nikon|": 55,
+    "|film|": 53,
+    "|lens|canon|": 52,
+    "|metadata|": 50,
+    "|flash|": 47,
+    "|photo-editing|": 47,
+    "|printing|": 42,
+    "|astrophotography|": 41,
+    "|lighting|": 41,
+    "|film|developing|": 39,
+    "|darktable|": 34,
+    "|photo-competition|": 33,
+    "|post-processing|": 32,
+    "|tripod|": 31
+  }
+}

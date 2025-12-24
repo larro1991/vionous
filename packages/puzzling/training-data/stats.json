@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "name": "vionous-puzzling",
+    "version": "1.0.0",
+    "created": "2025-12-24T10:01:14.572697",
+    "source": "Puzzling Stack Exchange",
+    "license": "CC-BY-SA 4.0"
+  },
+  "dataset_size": {
+    "total_pairs": 26274,
+    "train_pairs": 23646,
+    "val_pairs": 2628,
+    "train_val_split": "90/10"
+  },
+  "source_stats": {
+    "total_questions": 27362,
+    "questions_with_answers": 26769,
+    "pairs_created": 26274,
+    "min_score_filter": 1
+  },
+  "quality_metrics": {
+    "accepted_answer_ratio": 0.8447134048869605,
+    "avg_question_score": 8.91976859252493,
+    "avg_answer_score": 9.737192661947173
+  },
+  "top_tags": {
+    "|riddle|": 1741,
+    "|riddle|word|": 564,
+    "|cipher|": 504,
+    "|mathematics|": 498,
+    "|logical-deduction|": 457,
+    "|riddle|rhyme|": 452,
+    "|enigmatic-puzzle|": 340,
+    "|riddle|wordplay|": 239,
+    "|logical-deduction|grid-deduction|": 234,
+    "|number-sequence|": 225,
+    "|riddle|word|wordplay|": 222,
+    "|riddle|knowledge|": 218,
+    "|riddle|word|rhyme|": 195,
+    "|lateral-thinking|": 195,
+    "|pattern|": 192,
+    "|logical-deduction|liars|": 188,
+    "|rebus|": 185,
+    "|pattern|word-property|": 184,
+    "|mathematics|geometry|": 181,
+    "|mathematics|calculation-puzzle|": 162
+  }
+}

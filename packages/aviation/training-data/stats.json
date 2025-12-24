@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "name": "vionous-aviation",
+    "version": "1.0.0",
+    "created": "2025-12-24T10:04:19.122799",
+    "source": "Aviation Stack Exchange",
+    "license": "CC-BY-SA 4.0"
+  },
+  "dataset_size": {
+    "total_pairs": 23329,
+    "train_pairs": 20996,
+    "val_pairs": 2333,
+    "train_val_split": "90/10"
+  },
+  "source_stats": {
+    "total_questions": 25475,
+    "questions_with_answers": 23622,
+    "pairs_created": 23329,
+    "min_score_filter": 1
+  },
+  "quality_metrics": {
+    "accepted_answer_ratio": 0.5687341934930773,
+    "avg_question_score": 7.437867032448883,
+    "avg_answer_score": 9.990998328260963
+  },
+  "top_tags": {
+    "|aerodynamics|": 299,
+    "|aircraft-design|": 220,
+    "|aircraft-identification|": 163,
+    "|faa-regulations|": 136,
+    "|air-traffic-control|": 105,
+    "|jet-engine|": 91,
+    "|aircraft-performance|": 82,
+    "|safety|": 73,
+    "|aircraft-design|aerodynamics|": 70,
+    "|aircraft-maintenance|": 66,
+    "|helicopter|": 58,
+    "|terminology|": 54,
+    "|airline-operations|": 48,
+    "|weather|": 45,
+    "|aviation-history|": 45,
+    "|radio-communications|": 44,
+    "|airport|": 41,
+    "|commercial-aviation|": 40,
+    "|propeller|": 40,
+    "|faa-regulations|medical|": 39
+  }
+}

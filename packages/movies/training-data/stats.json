@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "name": "vionous-movies & tv",
+    "version": "1.0.0",
+    "created": "2025-12-24T09:59:43.418058",
+    "source": "Movies & TV Stack Exchange",
+    "license": "CC-BY-SA 4.0"
+  },
+  "dataset_size": {
+    "total_pairs": 20544,
+    "train_pairs": 18489,
+    "val_pairs": 2055,
+    "train_val_split": "90/10"
+  },
+  "source_stats": {
+    "total_questions": 22924,
+    "questions_with_answers": 20752,
+    "pairs_created": 20544,
+    "min_score_filter": 1
+  },
+  "quality_metrics": {
+    "accepted_answer_ratio": 0.6750389408099688,
+    "avg_question_score": 8.780081775700934,
+    "avg_answer_score": 10.425817757009346
+  },
+  "top_tags": {
+    "|identify-this-movie|": 450,
+    "|plot-explanation|game-of-thrones|": 305,
+    "|game-of-thrones|": 241,
+    "|breaking-bad|": 109,
+    "|plot-explanation|breaking-bad|": 100,
+    "|plot-explanation|marvel-cinematic-universe|avengers-infinity-war|": 88,
+    "|film-techniques|": 88,
+    "|production|": 81,
+    "|character|game-of-thrones|": 80,
+    "|plot-explanation|marvel-cinematic-universe|avengers-endgame|": 79,
+    "|identify-this-movie|science-fiction|": 79,
+    "|plot-explanation|sherlock|": 78,
+    "|plot-explanation|interstellar|": 72,
+    "|identify-this-movie|horror|": 55,
+    "|first-appearance|": 50,
+    "|plot-explanation|inception|": 49,
+    "|star-wars|": 48,
+    "|marvel-cinematic-universe|avengers-endgame|": 47,
+    "|doctor-who|": 46,
+    "|sherlock|": 45
+  }
+}

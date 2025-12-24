@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "name": "vionous-homebrewing",
+    "version": "1.0.0",
+    "created": "2025-12-24T10:03:12.337635",
+    "source": "Homebrewing Stack Exchange",
+    "license": "CC-BY-SA 4.0"
+  },
+  "dataset_size": {
+    "total_pairs": 6069,
+    "train_pairs": 5462,
+    "val_pairs": 607,
+    "train_val_split": "90/10"
+  },
+  "source_stats": {
+    "total_questions": 6179,
+    "questions_with_answers": 6113,
+    "pairs_created": 6069,
+    "min_score_filter": 1
+  },
+  "quality_metrics": {
+    "accepted_answer_ratio": 0.6109738012852199,
+    "avg_question_score": 3.5727467457571263,
+    "avg_answer_score": 3.711978909210743
+  },
+  "top_tags": {
+    "|fermentation|": 97,
+    "|yeast|": 74,
+    "|cider|": 57,
+    "|beer|": 51,
+    "|hops|": 51,
+    "|carbonation|": 34,
+    "|kegging|": 30,
+    "|wine|": 27,
+    "|water|": 26,
+    "|bottling|": 26,
+    "|fermentation|yeast|": 24,
+    "|yeast-starters|": 22,
+    "|equipment|": 22,
+    "|yeast|yeast-starters|": 19,
+    "|airlock|": 19,
+    "|mead|": 19,
+    "|first-time-brewer|": 18,
+    "|secondary-fermentation|": 17,
+    "|fermentation-temperature|": 17,
+    "|techniques|": 17
+  }
+}

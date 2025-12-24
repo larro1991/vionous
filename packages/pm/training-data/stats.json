@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "name": "vionous-project management",
+    "version": "1.0.0",
+    "created": "2025-12-24T10:03:50.419692",
+    "source": "Project Management Stack Exchange",
+    "license": "CC-BY-SA 4.0"
+  },
+  "dataset_size": {
+    "total_pairs": 6160,
+    "train_pairs": 5544,
+    "val_pairs": 616,
+    "train_val_split": "90/10"
+  },
+  "source_stats": {
+    "total_questions": 6398,
+    "questions_with_answers": 6312,
+    "pairs_created": 6160,
+    "min_score_filter": 1
+  },
+  "quality_metrics": {
+    "accepted_answer_ratio": 0.4900974025974026,
+    "avg_question_score": 4.2,
+    "avg_answer_score": 4.578571428571428
+  },
+  "top_tags": {
+    "|ms-project|": 164,
+    "|scrum|agile|": 102,
+    "|scrum|": 83,
+    "|jira|": 73,
+    "|agile|": 70,
+    "|estimation|": 44,
+    "|ms-project|ms-project-2010|": 43,
+    "|ms-project|ms-project-2013|": 38,
+    "|team-management|": 33,
+    "|kanban|": 33,
+    "|software-development|": 32,
+    "|planning|": 31,
+    "|career|": 30,
+    "|pmp|": 30,
+    "|project-management-style|": 30,
+    "|pm-software|": 25,
+    "|requirements|": 23,
+    "|scrum|agile|scrum-master|": 23,
+    "|scrum|agile|sprint|": 23,
+    "|scrum|agile|user-stories|": 23
+  }
+}

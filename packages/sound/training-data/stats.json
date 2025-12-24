@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "name": "vionous-sound design",
+    "version": "1.0.0",
+    "created": "2025-12-24T09:58:52.524969",
+    "source": "Sound Design Stack Exchange",
+    "license": "CC-BY-SA 4.0"
+  },
+  "dataset_size": {
+    "total_pairs": 8960,
+    "train_pairs": 8064,
+    "val_pairs": 896,
+    "train_val_split": "90/10"
+  },
+  "source_stats": {
+    "total_questions": 10047,
+    "questions_with_answers": 9332,
+    "pairs_created": 8960,
+    "min_score_filter": 1
+  },
+  "quality_metrics": {
+    "accepted_answer_ratio": 0.39799107142857143,
+    "avg_question_score": 2.062276785714286,
+    "avg_answer_score": 2.618080357142857
+  },
+  "top_tags": {
+    "|audio-recording|": 107,
+    "|microphone|": 101,
+    "|sound-design|": 79,
+    "|midi|": 45,
+    "|pro-tools|": 43,
+    "|sound-effects|": 40,
+    "|software|": 36,
+    "|speakers|": 34,
+    "|synthesizer|": 32,
+    "|mixing|": 30,
+    "|headphones|": 29,
+    "|logic-pro|": 27,
+    "|audio-recording|microphone|": 26,
+    "|audio|": 26,
+    "|audacity|": 24,
+    "|untagged|": 23,
+    "|foley|": 23,
+    "|sound|": 22,
+    "|daw|": 18,
+    "|hardware|": 18
+  }
+}

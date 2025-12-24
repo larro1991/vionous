@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "name": "vionous-engineering",
+    "version": "1.0.0",
+    "created": "2025-12-24T10:04:07.132821",
+    "source": "Engineering Stack Exchange",
+    "license": "CC-BY-SA 4.0"
+  },
+  "dataset_size": {
+    "total_pairs": 11416,
+    "train_pairs": 10274,
+    "val_pairs": 1142,
+    "train_val_split": "90/10"
+  },
+  "source_stats": {
+    "total_questions": 16173,
+    "questions_with_answers": 12744,
+    "pairs_created": 11416,
+    "min_score_filter": 1
+  },
+  "quality_metrics": {
+    "accepted_answer_ratio": 0.4764365802382621,
+    "avg_question_score": 1.8325157673440784,
+    "avg_answer_score": 2.563770147161878
+  },
+  "top_tags": {
+    "|mechanical-engineering|": 374,
+    "|electrical-engineering|": 156,
+    "|structural-engineering|": 121,
+    "|fluid-mechanics|": 113,
+    "|materials|": 88,
+    "|thermodynamics|": 74,
+    "|control-engineering|control-theory|": 68,
+    "|mechanical-engineering|gears|": 54,
+    "|civil-engineering|": 53,
+    "|structural-engineering|structural-analysis|": 52,
+    "|solidworks|": 50,
+    "|statics|": 49,
+    "|automotive-engineering|": 49,
+    "|control-engineering|": 45,
+    "|gears|": 44,
+    "|mechanical-engineering|fluid-mechanics|": 42,
+    "|motors|": 40,
+    "|mechanical-engineering|automotive-engineering|": 39,
+    "|chemical-engineering|": 36,
+    "|measurements|": 34
+  }
+}

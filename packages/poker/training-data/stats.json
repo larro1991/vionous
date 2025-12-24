@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "name": "vionous-poker",
+    "version": "1.0.0",
+    "created": "2025-12-24T10:01:00.714709",
+    "source": "Poker Stack Exchange",
+    "license": "CC-BY-SA 4.0"
+  },
+  "dataset_size": {
+    "total_pairs": 1933,
+    "train_pairs": 1739,
+    "val_pairs": 194,
+    "train_val_split": "90/10"
+  },
+  "source_stats": {
+    "total_questions": 2151,
+    "questions_with_answers": 2051,
+    "pairs_created": 1933,
+    "min_score_filter": 1
+  },
+  "quality_metrics": {
+    "accepted_answer_ratio": 0.46145887221934817,
+    "avg_question_score": 3.164511122607346,
+    "avg_answer_score": 3.3021210553543714
+  },
+  "top_tags": {
+    "|texas-hold-em|": 144,
+    "|rules|": 72,
+    "|poker-strategy|": 34,
+    "|poker-theory|": 31,
+    "|odds|": 31,
+    "|texas-hold-em|rules|": 30,
+    "|probability|": 28,
+    "|online|": 27,
+    "|tournament|": 24,
+    "|betting-strategy|": 16,
+    "|texas-hold-em|online|": 13,
+    "|texas-hold-em|betting-strategy|": 12,
+    "|texas-hold-em|poker-theory|": 12,
+    "|texas-hold-em|odds|": 12,
+    "|hand-history|": 11,
+    "|poker-tools|": 11,
+    "|texas-hold-em|probability|": 11,
+    "|terminology|": 11,
+    "|all-in|": 10,
+    "|cash-game|": 9
+  }
+}

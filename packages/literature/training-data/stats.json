@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "name": "vionous-literature",
+    "version": "1.0.0",
+    "created": "2025-12-24T09:57:14.158485",
+    "source": "Literature Stack Exchange",
+    "license": "CC-BY-SA 4.0"
+  },
+  "dataset_size": {
+    "total_pairs": 5349,
+    "train_pairs": 4814,
+    "val_pairs": 535,
+    "train_val_split": "90/10"
+  },
+  "source_stats": {
+    "total_questions": 6780,
+    "questions_with_answers": 5411,
+    "pairs_created": 5349,
+    "min_score_filter": 1
+  },
+  "quality_metrics": {
+    "accepted_answer_ratio": 0.5973079080201907,
+    "avg_question_score": 6.027855673957749,
+    "avg_answer_score": 6.473920358945597
+  },
+  "top_tags": {
+    "|identification-request|": 326,
+    "|identification-request|short-stories|": 82,
+    "|meaning|swimming-in-the-dark|tomasz-jedrowski|": 54,
+    "|quote-source|": 41,
+    "|meaning|the-childrens-bach|helen-garner|": 40,
+    "|j-r-r-tolkien|the-lord-of-the-rings|": 28,
+    "|meaning|lord-byron|don-juan|": 26,
+    "|meaning|short-stories|g-k-chesterton|father-brown|": 25,
+    "|history-of-literature|": 25,
+    "|george-orwell|nineteen-eighty-four|": 24,
+    "|terminology|": 24,
+    "|ayn-rand|atlas-shrugged|": 20,
+    "|meaning|j-r-r-tolkien|the-lord-of-the-rings|": 20,
+    "|poetry|identification-request|": 20,
+    "|atlas-shrugged|ayn-rand|": 19,
+    "|meaning|robert-barr|in-the-midst-of-alarms|": 17,
+    "|c-s-lewis|the-chronicles-of-narnia|": 17,
+    "|terminology|literary-device|": 16,
+    "|william-shakespeare|macbeth|": 15,
+    "|meaning|charles-dickens|little-dorrit|": 14
+  }
+}

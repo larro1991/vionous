@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "name": "vionous-gardening",
+    "version": "1.0.0",
+    "created": "2025-12-24T10:02:30.632961",
+    "source": "Gardening Stack Exchange",
+    "license": "CC-BY-SA 4.0"
+  },
+  "dataset_size": {
+    "total_pairs": 15077,
+    "train_pairs": 13569,
+    "val_pairs": 1508,
+    "train_val_split": "90/10"
+  },
+  "source_stats": {
+    "total_questions": 17860,
+    "questions_with_answers": 15285,
+    "pairs_created": 15077,
+    "min_score_filter": 1
+  },
+  "quality_metrics": {
+    "accepted_answer_ratio": 0.5109106586190887,
+    "avg_question_score": 4.51475757776746,
+    "avg_answer_score": 3.7022617231544737
+  },
+  "top_tags": {
+    "|identification|": 565,
+    "|trees|": 140,
+    "|identification|trees|": 140,
+    "|identification|flowers|": 131,
+    "|identification|houseplants|": 118,
+    "|compost|": 97,
+    "|houseplants|": 83,
+    "|identification|weeds|": 70,
+    "|identification|shrubs|": 69,
+    "|tomatoes|": 68,
+    "|identification|succulents|": 60,
+    "|lawn|": 56,
+    "|plant-health|": 56,
+    "|weed-control|": 51,
+    "|diagnosis|": 47,
+    "|watering|": 45,
+    "|flowers|": 42,
+    "|cactus|": 39,
+    "|grass|": 39,
+    "|landscaping|": 37
+  }
+}

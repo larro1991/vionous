@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "name": "vionous-islam",
+    "version": "1.0.0",
+    "created": "2025-12-24T09:57:58.312357",
+    "source": "Islam Stack Exchange",
+    "license": "CC-BY-SA 4.0"
+  },
+  "dataset_size": {
+    "total_pairs": 10969,
+    "train_pairs": 9872,
+    "val_pairs": 1097,
+    "train_val_split": "90/10"
+  },
+  "source_stats": {
+    "total_questions": 15013,
+    "questions_with_answers": 12889,
+    "pairs_created": 10969,
+    "min_score_filter": 1
+  },
+  "quality_metrics": {
+    "accepted_answer_ratio": 0.3745099826784575,
+    "avg_question_score": 2.5028717294192724,
+    "avg_answer_score": 2.564408788403683
+  },
+  "top_tags": {
+    "|halal-haram|": 179,
+    "|salat|": 152,
+    "|quran|": 132,
+    "|quran|tafseer|": 85,
+    "|nikah|": 81,
+    "|hadith|source-identification|": 68,
+    "|hadith|": 63,
+    "|hadith|hadith-interpretation|": 61,
+    "|sharia|": 59,
+    "|allah|": 52,
+    "|practical-islam|": 51,
+    "|halal-haram|food|": 48,
+    "|hadith|authenticity|": 47,
+    "|zakat|": 43,
+    "|sawm|": 40,
+    "|dua|": 39,
+    "|prophet-muhammad|": 35,
+    "|shirk|": 33,
+    "|quran|hadith|": 33,
+    "|tafseer|": 31
+  }
+}

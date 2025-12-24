@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "name": "vionous-sports",
+    "version": "1.0.0",
+    "created": "2025-12-24T10:01:24.227316",
+    "source": "Sports Stack Exchange",
+    "license": "CC-BY-SA 4.0"
+  },
+  "dataset_size": {
+    "total_pairs": 5510,
+    "train_pairs": 4959,
+    "val_pairs": 551,
+    "train_val_split": "90/10"
+  },
+  "source_stats": {
+    "total_questions": 6107,
+    "questions_with_answers": 5648,
+    "pairs_created": 5510,
+    "min_score_filter": 1
+  },
+  "quality_metrics": {
+    "accepted_answer_ratio": 0.596551724137931,
+    "avg_question_score": 4.5653357531760435,
+    "avg_answer_score": 4.516333938294011
+  },
+  "top_tags": {
+    "|rules|cricket|": 183,
+    "|cricket|": 139,
+    "|rules|football|": 130,
+    "|baseball|": 102,
+    "|rules|baseball|": 87,
+    "|formula-1|": 85,
+    "|football|": 78,
+    "|rules|football|officiating|": 67,
+    "|rules|american-football|nfl|": 52,
+    "|rules|basketball|": 48,
+    "|american-football|nfl|": 47,
+    "|rules|american-football|": 47,
+    "|tennis|": 43,
+    "|baseball|mlb|": 42,
+    "|american-football|": 42,
+    "|rules|pool|": 37,
+    "|basketball|nba|": 32,
+    "|basketball|": 31,
+    "|rules|baseball|mlb|": 29,
+    "|cricket|terminology|": 28
+  }
+}

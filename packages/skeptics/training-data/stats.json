@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "name": "vionous-skeptics",
+    "version": "1.0.0",
+    "created": "2025-12-24T09:57:27.573435",
+    "source": "Skeptics Stack Exchange",
+    "license": "CC-BY-SA 4.0"
+  },
+  "dataset_size": {
+    "total_pairs": 9104,
+    "train_pairs": 8193,
+    "val_pairs": 911,
+    "train_val_split": "90/10"
+  },
+  "source_stats": {
+    "total_questions": 11202,
+    "questions_with_answers": 9197,
+    "pairs_created": 9104,
+    "min_score_filter": 1
+  },
+  "quality_metrics": {
+    "accepted_answer_ratio": 0.6096221441124781,
+    "avg_question_score": 17.83347978910369,
+    "avg_answer_score": 21.56260984182777
+  },
+  "top_tags": {
+    "|medical-science|": 119,
+    "|nutrition|": 107,
+    "|united-states|politics|": 72,
+    "|quotes|": 68,
+    "|history|": 61,
+    "|climate-change|": 41,
+    "|united-states|": 37,
+    "|psychology|": 33,
+    "|economics|": 29,
+    "|biology|": 29,
+    "|zoology|": 29,
+    "|united-states|law|": 28,
+    "|covid-19|": 28,
+    "|medical-science|nutrition|": 26,
+    "|physiology|": 26,
+    "|physics|": 26,
+    "|road-vehicles|": 24,
+    "|united-states|economics|": 24,
+    "|environment|": 22,
+    "|medical-science|alternative-medicine|": 21
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "name": "vionous-freelancing",
+    "version": "1.0.0",
+    "created": "2025-12-24T10:03:52.810436",
+    "source": "Freelancing Stack Exchange",
+    "license": "CC-BY-SA 4.0"
+  },
+  "dataset_size": {
+    "total_pairs": 1917,
+    "train_pairs": 1725,
+    "val_pairs": 192,
+    "train_val_split": "90/10"
+  },
+  "source_stats": {
+    "total_questions": 2017,
+    "questions_with_answers": 1962,
+    "pairs_created": 1917,
+    "min_score_filter": 1
+  },
+  "quality_metrics": {
+    "accepted_answer_ratio": 0.48148148148148145,
+    "avg_question_score": 4.233176838810642,
+    "avg_answer_score": 4.2874282733437665
+  },
+  "top_tags": {
+    "|freelance-websites|": 63,
+    "|contracts|": 52,
+    "|difficult-client|": 25,
+    "|taxes|": 23,
+    "|attracting-clients|": 22,
+    "|payment-terms|": 22,
+    "|invoices|": 20,
+    "|pay-rate|": 19,
+    "|legal|": 16,
+    "|project-management|": 14,
+    "|communication|": 14,
+    "|client-support|": 13,
+    "|working-from-home|": 13,
+    "|payments|": 12,
+    "|portfolio|": 12,
+    "|programmer|": 11,
+    "|contracts|legal|": 11,
+    "|freelance-websites|attracting-clients|": 11,
+    "|business-plan|": 10,
+    "|price|": 10
+  }
+}

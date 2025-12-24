@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "name": "vionous-martial arts",
+    "version": "1.0.0",
+    "created": "2025-12-24T10:01:40.465985",
+    "source": "Martial Arts Stack Exchange",
+    "license": "CC-BY-SA 4.0"
+  },
+  "dataset_size": {
+    "total_pairs": 2195,
+    "train_pairs": 1975,
+    "val_pairs": 220,
+    "train_val_split": "90/10"
+  },
+  "source_stats": {
+    "total_questions": 2307,
+    "questions_with_answers": 2212,
+    "pairs_created": 2195,
+    "min_score_filter": 1
+  },
+  "quality_metrics": {
+    "accepted_answer_ratio": 0.6150341685649203,
+    "avg_question_score": 5.480182232346241,
+    "avg_answer_score": 5.686560364464692
+  },
+  "top_tags": {
+    "|self-defense|": 31,
+    "|training|": 26,
+    "|karate|": 23,
+    "|tae-kwon-do|": 23,
+    "|boxing|": 21,
+    "|aikido|": 17,
+    "|weapons|": 15,
+    "|judo|": 13,
+    "|brazilian-jiu-jitsu|": 12,
+    "|technique|": 11,
+    "|kung-fu|": 10,
+    "|karate|forms|": 10,
+    "|muay-thai|": 10,
+    "|equipment|": 9,
+    "|tai-chi|": 9,
+    "|krav-maga|": 8,
+    "|mixed-martial-arts|": 8,
+    "|self-defense|streetfight|": 8,
+    "|punching|": 8,
+    "|tae-kwon-do|sparring|": 7
+  }
+}

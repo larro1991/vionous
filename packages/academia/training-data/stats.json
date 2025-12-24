@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "name": "vionous-academia",
+    "version": "1.0.0",
+    "created": "2025-12-24T09:57:08.900649",
+    "source": "Academia Stack Exchange",
+    "license": "CC-BY-SA 4.0"
+  },
+  "dataset_size": {
+    "total_pairs": 40447,
+    "train_pairs": 36402,
+    "val_pairs": 4045,
+    "train_val_split": "90/10"
+  },
+  "source_stats": {
+    "total_questions": 43792,
+    "questions_with_answers": 41045,
+    "pairs_created": 40447,
+    "min_score_filter": 1
+  },
+  "quality_metrics": {
+    "accepted_answer_ratio": 0.46438549212549757,
+    "avg_question_score": 9.056345340816376,
+    "avg_answer_score": 12.494424802828393
+  },
+  "top_tags": {
+    "|publications|": 475,
+    "|citations|": 386,
+    "|graduate-admissions|": 348,
+    "|phd|": 310,
+    "|peer-review|": 268,
+    "|recommendation-letter|": 216,
+    "|publications|peer-review|": 170,
+    "|research-process|": 161,
+    "|phd|graduate-admissions|": 152,
+    "|teaching|": 150,
+    "|phd|advisor|": 144,
+    "|thesis|": 139,
+    "|citations|citation-style|": 134,
+    "|graduate-admissions|recommendation-letter|": 131,
+    "|plagiarism|": 119,
+    "|conference|": 114,
+    "|funding|": 109,
+    "|authorship|": 109,
+    "|postdocs|": 107,
+    "|publications|journals|": 106
+  }
+}

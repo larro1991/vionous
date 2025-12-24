@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "name": "vionous-physical fitness",
+    "version": "1.0.0",
+    "created": "2025-12-24T10:01:44.977804",
+    "source": "Physical Fitness Stack Exchange",
+    "license": "CC-BY-SA 4.0"
+  },
+  "dataset_size": {
+    "total_pairs": 9265,
+    "train_pairs": 8338,
+    "val_pairs": 927,
+    "train_val_split": "90/10"
+  },
+  "source_stats": {
+    "total_questions": 10217,
+    "questions_with_answers": 9520,
+    "pairs_created": 9265,
+    "min_score_filter": 1
+  },
+  "quality_metrics": {
+    "accepted_answer_ratio": 0.5415002698327037,
+    "avg_question_score": 3.4728548300053967,
+    "avg_answer_score": 3.782838640043173
+  },
+  "top_tags": {
+    "|running|": 107,
+    "|weightlifting|": 103,
+    "|exercise|": 87,
+    "|weight-loss|": 81,
+    "|workout|": 57,
+    "|workout-routines|": 57,
+    "|swimming|": 49,
+    "|push-ups|": 42,
+    "|diet|": 40,
+    "|cardio|": 38,
+    "|bodybuilding|": 37,
+    "|training|": 36,
+    "|squats|": 34,
+    "|deadlifts|": 33,
+    "|muscle|": 30,
+    "|abdominals|": 30,
+    "|stretching|": 30,
+    "|strength|": 30,
+    "|nutrition|": 28,
+    "|gym|": 25
+  }
+}

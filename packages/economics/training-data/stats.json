@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "name": "vionous-economics",
+    "version": "1.0.0",
+    "created": "2025-12-24T09:56:35.227475",
+    "source": "Economics Stack Exchange",
+    "license": "CC-BY-SA 4.0"
+  },
+  "dataset_size": {
+    "total_pairs": 11783,
+    "train_pairs": 10604,
+    "val_pairs": 1179,
+    "train_val_split": "90/10"
+  },
+  "source_stats": {
+    "total_questions": 15820,
+    "questions_with_answers": 12335,
+    "pairs_created": 11783,
+    "min_score_filter": 1
+  },
+  "quality_metrics": {
+    "accepted_answer_ratio": 0.5213443095985743,
+    "avg_question_score": 2.3695154035474837,
+    "avg_answer_score": 2.856657896970211
+  },
+  "top_tags": {
+    "|microeconomics|": 354,
+    "|macroeconomics|": 329,
+    "|econometrics|": 182,
+    "|game-theory|": 142,
+    "|gdp|": 81,
+    "|mathematical-economics|": 78,
+    "|stock-market|": 67,
+    "|supply-and-demand|": 66,
+    "|game-theory|nash-equilibrium|": 66,
+    "|inflation|": 62,
+    "|microeconomics|utility|": 58,
+    "|econometrics|regression|": 56,
+    "|microeconomics|mathematical-economics|": 50,
+    "|microeconomics|consumer-theory|": 47,
+    "|utility|": 47,
+    "|international-trade|": 44,
+    "|macroeconomics|gdp|": 44,
+    "|microeconomics|elasticity|": 42,
+    "|taxation|": 42,
+    "|microeconomics|supply-and-demand|": 38
+  }
+}

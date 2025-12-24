@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "name": "vionous-beer",
+    "version": "1.0.0",
+    "created": "2025-12-24T10:03:16.474025",
+    "source": "Beer Stack Exchange",
+    "license": "CC-BY-SA 4.0"
+  },
+  "dataset_size": {
+    "total_pairs": 1118,
+    "train_pairs": 1006,
+    "val_pairs": 112,
+    "train_val_split": "90/10"
+  },
+  "source_stats": {
+    "total_questions": 1173,
+    "questions_with_answers": 1131,
+    "pairs_created": 1118,
+    "min_score_filter": 1
+  },
+  "quality_metrics": {
+    "accepted_answer_ratio": 0.6270125223613596,
+    "avg_question_score": 6.39355992844365,
+    "avg_answer_score": 5.5134168157423975
+  },
+  "top_tags": {
+    "|wine|": 37,
+    "|brewing|": 16,
+    "|taste|": 16,
+    "|health|": 15,
+    "|specialty-beers|": 14,
+    "|whiskey|": 13,
+    "|breweries|": 12,
+    "|storage|": 11,
+    "|history|": 11,
+    "|pairing|": 7,
+    "|trappist|": 7,
+    "|cocktails|": 7,
+    "|drinking|": 7,
+    "|keg|": 6,
+    "|red-wine|": 6,
+    "|glassware|": 6,
+    "|wine|pairing|": 6,
+    "|ingredients|": 6,
+    "|non-alcoholic|": 6,
+    "|flavor|": 6
+  }
+}

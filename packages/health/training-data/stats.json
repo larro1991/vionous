@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "name": "vionous-health",
+    "version": "1.0.0",
+    "created": "2025-12-24T10:04:00.060777",
+    "source": "Health Stack Exchange",
+    "license": "CC-BY-SA 4.0"
+  },
+  "dataset_size": {
+    "total_pairs": 5048,
+    "train_pairs": 4543,
+    "val_pairs": 505,
+    "train_val_split": "90/10"
+  },
+  "source_stats": {
+    "total_questions": 7930,
+    "questions_with_answers": 5202,
+    "pairs_created": 5048,
+    "min_score_filter": 1
+  },
+  "quality_metrics": {
+    "accepted_answer_ratio": 0.5041600633914421,
+    "avg_question_score": 3.7048335974643423,
+    "avg_answer_score": 3.7097860538827256
+  },
+  "top_tags": {
+    "|nutrition|": 51,
+    "|covid-19|": 49,
+    "|medications|": 42,
+    "|dentistry|": 29,
+    "|nutrition|diet|": 26,
+    "|covid-19|vaccination|": 25,
+    "|terminology|": 23,
+    "|sleep|": 17,
+    "|dermatology|": 17,
+    "|eye|": 16,
+    "|cancer|": 15,
+    "|vaccination|": 15,
+    "|blood-pressure|": 14,
+    "|allergy|": 13,
+    "|water|": 13,
+    "|diet|": 13,
+    "|research|": 13,
+    "|blood-tests|": 13,
+    "|practice-of-medicine|": 10,
+    "|sex|": 9
+  }
+}

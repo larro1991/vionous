@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "name": "vionous-law",
+    "version": "1.0.0",
+    "created": "2025-12-24T09:56:18.971478",
+    "source": "Law Stack Exchange",
+    "license": "CC-BY-SA 4.0"
+  },
+  "dataset_size": {
+    "total_pairs": 26024,
+    "train_pairs": 23421,
+    "val_pairs": 2603,
+    "train_val_split": "90/10"
+  },
+  "source_stats": {
+    "total_questions": 29117,
+    "questions_with_answers": 26584,
+    "pairs_created": 26024,
+    "min_score_filter": 1
+  },
+  "quality_metrics": {
+    "accepted_answer_ratio": 0.46987396249615737,
+    "avg_question_score": 2.8698509068552105,
+    "avg_answer_score": 5.004880110667076
+  },
+  "top_tags": {
+    "|copyright|": 544,
+    "|contract-law|": 333,
+    "|united-states|": 289,
+    "|gdpr|": 255,
+    "|criminal-law|": 164,
+    "|united-kingdom|": 109,
+    "|trademark|": 102,
+    "|united-states|criminal-law|": 90,
+    "|copyright|intellectual-property|": 88,
+    "|legal-terms|": 86,
+    "|united-states|copyright|": 83,
+    "|licensing|": 77,
+    "|patents|": 75,
+    "|copyright|trademark|": 71,
+    "|intellectual-property|": 65,
+    "|contract-law|england-and-wales|": 56,
+    "|internet|": 53,
+    "|international|": 53,
+    "|copyright|fair-use|": 52,
+    "|copyright|music|": 52
+  }
+}
