@@ -1,0 +1,59 @@
+{
+  "metadata": {
+    "name": "vionous-comics",
+    "version": "1.0.0",
+    "created": "2025-12-23T14:09:55.637820",
+    "source": "Grand Comics Database (GCD)",
+    "source_date": "2021-05-29",
+    "license": "CC-BY-SA 4.0"
+  },
+  "dataset_size": {
+    "total_pairs": 324621,
+    "train_pairs": 292158,
+    "val_pairs": 32463,
+    "train_val_split": "90/10"
+  },
+  "question_answer_stats": {
+    "avg_question_length": 52.6,
+    "avg_answer_length": 70.3,
+    "min_question_length": 20,
+    "max_question_length": 283,
+    "min_answer_length": 22,
+    "max_answer_length": 473
+  },
+  "qa_type_distribution": {
+    "issue_counts": 70303,
+    "series_summaries": 70141,
+    "publication_dates": 69826,
+    "other": 51997,
+    "first_appearances": 23600,
+    "pricing_info": 15675,
+    "genre_classification": 13912,
+    "content_descriptions": 8111,
+    "character_appearances": 734,
+    "reprints": 209,
+    "creator_bibliography": 113
+  },
+  "temporal_coverage": {
+    "earliest_year_mentioned": "1900",
+    "latest_year_mentioned": "2029",
+    "top_decades": {
+      "2000s": 91854,
+      "1990s": 86427,
+      "2010s": 61464,
+      "1980s": 47713,
+      "1970s": 30668,
+      "1950s": 20782,
+      "1960s": 17194,
+      "1940s": 13974,
+      "1930s": 2437,
+      "2020s": 747
+    }
+  },
+  "content_coverage": {
+    "series_count": 150000,
+    "features_with_year": 8950,
+    "unique_publishers": "14,000+",
+    "unique_creators": "47,000+"
+  }
+}
