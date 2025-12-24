@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "name": "vionous-blender",
+    "version": "1.0.0",
+    "created": "2025-12-24T09:27:51.499588",
+    "source": "Blender Stack Exchange",
+    "license": "CC-BY-SA 4.0"
+  },
+  "dataset_size": {
+    "total_pairs": 68583,
+    "train_pairs": 61724,
+    "val_pairs": 6859,
+    "train_val_split": "90/10"
+  },
+  "source_stats": {
+    "total_questions": 114562,
+    "questions_with_answers": 78649,
+    "pairs_created": 68583,
+    "min_score_filter": 1
+  },
+  "quality_metrics": {
+    "accepted_answer_ratio": 0.594607993234475,
+    "avg_question_score": 2.3022323316273714,
+    "avg_answer_score": 3.2315150984937957
+  },
+  "top_tags": {
+    "|modeling|": 2579,
+    "|python|": 1202,
+    "|geometry-nodes|": 1106,
+    "|animation|": 842,
+    "|rendering|": 782,
+    "|python|scripting|": 674,
+    "|modifiers|": 622,
+    "|mesh|": 588,
+    "|texturing|": 520,
+    "|uv|": 484,
+    "|interface|": 439,
+    "|rigging|": 428,
+    "|modeling|mesh|": 412,
+    "|3d-view|": 388,
+    "|materials|": 384,
+    "|particles|": 363,
+    "|texturing|uv|": 360,
+    "|cycles-render-engine|": 335,
+    "|modeling|modifiers|": 313,
+    "|animation-nodes|": 303
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "name": "vionous-software recommendations",
+    "version": "1.0.0",
+    "created": "2025-12-24T09:21:48.654135",
+    "source": "Software Recommendations Stack Exchange",
+    "license": "CC-BY-SA 4.0"
+  },
+  "dataset_size": {
+    "total_pairs": 12296,
+    "train_pairs": 11066,
+    "val_pairs": 1230,
+    "train_val_split": "90/10"
+  },
+  "source_stats": {
+    "total_questions": 22875,
+    "questions_with_answers": 13860,
+    "pairs_created": 12296,
+    "min_score_filter": 1
+  },
+  "quality_metrics": {
+    "accepted_answer_ratio": 0.40045543266102795,
+    "avg_question_score": 3.285783994795055,
+    "avg_answer_score": 2.2557742355237473
+  },
+  "top_tags": {
+    "|windows|": 73,
+    "|android|": 44,
+    "|python|": 37,
+    "|chrome|": 36,
+    "|windows|file-management|": 33,
+    "|web-apps|": 29,
+    "|database|": 26,
+    "|linux|": 24,
+    "|javascript|": 22,
+    "|firefox|": 21,
+    "|project-management|": 21,
+    "|web-browser|": 19,
+    "|windows-7|": 19,
+    "|backup|": 19,
+    "|windows|backup|": 19,
+    "|pdf|": 18,
+    "|open-source|": 18,
+    "|text-editor|": 18,
+    "|java|": 17,
+    "|windows|video-editing|": 16
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "name": "vionous-wordpress",
+    "version": "1.0.0",
+    "created": "2025-12-24T09:23:56.485420",
+    "source": "WordPress Stack Exchange",
+    "license": "CC-BY-SA 4.0"
+  },
+  "dataset_size": {
+    "total_pairs": 77437,
+    "train_pairs": 69693,
+    "val_pairs": 7744,
+    "train_val_split": "90/10"
+  },
+  "source_stats": {
+    "total_questions": 115885,
+    "questions_with_answers": 97502,
+    "pairs_created": 77437,
+    "min_score_filter": 1
+  },
+  "quality_metrics": {
+    "accepted_answer_ratio": 0.6728953859266242,
+    "avg_question_score": 1.594276637782972,
+    "avg_answer_score": 2.5511706290274674
+  },
+  "top_tags": {
+    "|plugins|": 708,
+    "|custom-post-types|": 571,
+    "|woocommerce-offtopic|": 516,
+    "|php|": 509,
+    "|categories|": 472,
+    "|wp-query|": 433,
+    "|plugin-development|": 429,
+    "|menus|": 422,
+    "|shortcode|": 363,
+    "|block-editor|": 336,
+    "|theme-development|": 333,
+    "|comments|": 322,
+    "|multisite|": 298,
+    "|images|": 297,
+    "|posts|": 284,
+    "|custom-post-types|custom-taxonomy|": 249,
+    "|customization|": 247,
+    "|permalinks|": 244,
+    "|functions|": 233,
+    "|post-thumbnails|": 231
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "name": "vionous-game development",
+    "version": "1.0.0",
+    "created": "2025-12-24T09:28:05.986181",
+    "source": "Game Development Stack Exchange",
+    "license": "CC-BY-SA 4.0"
+  },
+  "dataset_size": {
+    "total_pairs": 46194,
+    "train_pairs": 41574,
+    "val_pairs": 4620,
+    "train_val_split": "90/10"
+  },
+  "source_stats": {
+    "total_questions": 56729,
+    "questions_with_answers": 48683,
+    "pairs_created": 46194,
+    "min_score_filter": 1
+  },
+  "quality_metrics": {
+    "accepted_answer_ratio": 0.6392172143568429,
+    "avg_question_score": 2.9275447027752524,
+    "avg_answer_score": 3.7088149976187386
+  },
+  "top_tags": {
+    "|unity|": 1411,
+    "|unity|c#|": 1406,
+    "|c#|unity|": 292,
+    "|opengl|": 232,
+    "|game-design|": 214,
+    "|xna|c#|": 177,
+    "|libgdx|": 160,
+    "|xna|": 155,
+    "|java|libgdx|": 150,
+    "|java|": 146,
+    "|game-maker|": 129,
+    "|c++|": 127,
+    "|unity|animation|": 102,
+    "|collision-detection|": 92,
+    "|opengl|c++|": 90,
+    "|python|pygame|": 86,
+    "|mathematics|": 84,
+    "|path-finding|": 83,
+    "|c#|": 82,
+    "|unity|gui|": 81
+  }
+}

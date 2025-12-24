@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "name": "vionous-apple",
+    "version": "1.0.0",
+    "created": "2025-12-24T09:26:05.771114",
+    "source": "Apple Stack Exchange",
+    "license": "CC-BY-SA 4.0"
+  },
+  "dataset_size": {
+    "total_pairs": 101563,
+    "train_pairs": 91406,
+    "val_pairs": 10157,
+    "train_val_split": "90/10"
+  },
+  "source_stats": {
+    "total_questions": 129215,
+    "questions_with_answers": 106368,
+    "pairs_created": 101563,
+    "min_score_filter": 1
+  },
+  "quality_metrics": {
+    "accepted_answer_ratio": 0.47480873940312907,
+    "avg_question_score": 3.8403355552711127,
+    "avg_answer_score": 3.9504642438683377
+  },
+  "top_tags": {
+    "|macos|": 1450,
+    "|iphone|": 1191,
+    "|macbook-pro|": 607,
+    "|iphone|ios|": 439,
+    "|itunes|": 403,
+    "|ipad|": 379,
+    "|ios|": 362,
+    "|keyboard|": 288,
+    "|macos|finder|": 278,
+    "|applescript|": 271,
+    "|macos|keyboard|": 258,
+    "|macos|terminal|": 240,
+    "|terminal|": 239,
+    "|finder|": 220,
+    "|numbers|": 217,
+    "|icloud|": 204,
+    "|macbook-pro|display|": 195,
+    "|safari|": 184,
+    "|macbook-pro|battery|": 181,
+    "|mail.app|": 173
+  }
+}

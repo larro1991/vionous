@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "name": "vionous-android",
+    "version": "1.0.0",
+    "created": "2025-12-24T09:26:18.197574",
+    "source": "Android Stack Exchange",
+    "license": "CC-BY-SA 4.0"
+  },
+  "dataset_size": {
+    "total_pairs": 32642,
+    "train_pairs": 29377,
+    "val_pairs": 3265,
+    "train_val_split": "90/10"
+  },
+  "source_stats": {
+    "total_questions": 58621,
+    "questions_with_answers": 42375,
+    "pairs_created": 32642,
+    "min_score_filter": 1
+  },
+  "quality_metrics": {
+    "accepted_answer_ratio": 0.5075056675448808,
+    "avg_question_score": 3.3702898106733654,
+    "avg_answer_score": 3.0392132834997856
+  },
+  "top_tags": {
+    "|google-play-store|": 321,
+    "|applications|": 246,
+    "|whatsapp-messenger|": 213,
+    "|wi-fi|": 117,
+    "|rooting|": 109,
+    "|sms|": 102,
+    "|chrome-for-android|": 101,
+    "|contacts|": 88,
+    "|adb|": 87,
+    "|samsung|": 75,
+    "|gmail|": 70,
+    "|applications|google-play-store|": 68,
+    "|keyboard|": 63,
+    "|browser|": 63,
+    "|cyanogenmod|": 61,
+    "|root-access|": 56,
+    "|internal-storage|": 56,
+    "|notifications|": 53,
+    "|youtube|": 51,
+    "|samsung-galaxy-s-3|": 50
+  }
+}

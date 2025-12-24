@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "name": "vionous-gis",
+    "version": "1.0.0",
+    "created": "2025-12-24T09:27:33.915152",
+    "source": "GIS Stack Exchange",
+    "license": "CC-BY-SA 4.0"
+  },
+  "dataset_size": {
+    "total_pairs": 117634,
+    "train_pairs": 105870,
+    "val_pairs": 11764,
+    "train_val_split": "90/10"
+  },
+  "source_stats": {
+    "total_questions": 163544,
+    "questions_with_answers": 124792,
+    "pairs_created": 117634,
+    "min_score_filter": 1
+  },
+  "quality_metrics": {
+    "accepted_answer_ratio": 0.5380842273492358,
+    "avg_question_score": 2.667978645629665,
+    "avg_answer_score": 3.1348164646275736
+  },
+  "top_tags": {
+    "|qgis|": 1728,
+    "|google-earth-engine|": 771,
+    "|postgis|": 513,
+    "|openlayers|": 435,
+    "|postgis|postgresql|": 376,
+    "|arcgis-maps-sdk-javascript|": 362,
+    "|pyqgis|": 350,
+    "|arcpy|": 337,
+    "|openlayers-2|": 333,
+    "|google-earth-engine|google-earth-engine-javascript-api|": 313,
+    "|qgis|coordinate-system|": 310,
+    "|leaflet|": 298,
+    "|qgis|labeling|": 288,
+    "|carto|": 272,
+    "|qgis|pyqgis|": 260,
+    "|geoserver|": 251,
+    "|arcgis-desktop|": 213,
+    "|raster|r|": 208,
+    "|qgis|qgis-plugins|": 182,
+    "|qgis|python|pyqgis|": 181
+  }
+}

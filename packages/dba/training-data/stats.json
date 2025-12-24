@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "name": "vionous-database administrators",
+    "version": "1.0.0",
+    "created": "2025-12-24T09:21:31.174564",
+    "source": "Database Administrators Stack Exchange",
+    "license": "CC-BY-SA 4.0"
+  },
+  "dataset_size": {
+    "total_pairs": 80973,
+    "train_pairs": 72875,
+    "val_pairs": 8098,
+    "train_val_split": "90/10"
+  },
+  "source_stats": {
+    "total_questions": 103026,
+    "questions_with_answers": 90792,
+    "pairs_created": 80973,
+    "min_score_filter": 1
+  },
+  "quality_metrics": {
+    "accepted_answer_ratio": 0.6066096106109444,
+    "avg_question_score": 2.981907549430057,
+    "avg_answer_score": 3.8948908895557777
+  },
+  "top_tags": {
+    "|sql-server|": 2605,
+    "|mysql|": 2567,
+    "|postgresql|": 1956,
+    "|oracle|": 985,
+    "|database-design|": 755,
+    "|sql-server|sql-server-2008|": 558,
+    "|sql-server|t-sql|": 474,
+    "|mongodb|": 469,
+    "|sql-server|sql-server-2012|": 457,
+    "|mysql|database-design|": 370,
+    "|sql-server|sql-server-2008-r2|": 349,
+    "|mysql|replication|": 332,
+    "|sql-server-2008|": 303,
+    "|sql-server|sql-server-2014|": 251,
+    "|mysql|innodb|": 238,
+    "|sql-server|sql-server-2016|": 200,
+    "|cassandra|": 196,
+    "|oracle|oracle-11g-r2|": 194,
+    "|mysql|mariadb|": 186,
+    "|sql-server|ssms|": 181
+  }
+}

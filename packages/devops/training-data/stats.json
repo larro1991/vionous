@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "name": "vionous-devops",
+    "version": "1.0.0",
+    "created": "2025-12-24T09:20:27.655757",
+    "source": "DevOps Stack Exchange",
+    "license": "CC-BY-SA 4.0"
+  },
+  "dataset_size": {
+    "total_pairs": 4547,
+    "train_pairs": 4092,
+    "val_pairs": 455,
+    "train_val_split": "90/10"
+  },
+  "source_stats": {
+    "total_questions": 5688,
+    "questions_with_answers": 4909,
+    "pairs_created": 4547,
+    "min_score_filter": 1
+  },
+  "quality_metrics": {
+    "accepted_answer_ratio": 0.5232021112821641,
+    "avg_question_score": 3.3751924345722455,
+    "avg_answer_score": 3.1310754343523204
+  },
+  "top_tags": {
+    "|ansible|": 141,
+    "|docker|": 108,
+    "|kubernetes|": 100,
+    "|jenkins|": 71,
+    "|docker|docker-compose|": 52,
+    "|terraform|": 49,
+    "|jenkins|jenkins-pipeline|": 33,
+    "|amazon-web-services|": 29,
+    "|gitlab|": 26,
+    "|docker|kubernetes|": 26,
+    "|amazon-web-services|terraform|": 25,
+    "|azure-devops|": 24,
+    "|docker|dockerfile|": 23,
+    "|docker|containers|": 20,
+    "|amazon-web-services|amazon-ec2|": 19,
+    "|jenkins|jenkins-pipeline|jenkinsfile|": 19,
+    "|kubernetes|kubectl|": 19,
+    "|culture|": 19,
+    "|chef|": 18,
+    "|azure-devops|azure-pipelines|": 18
+  }
+}

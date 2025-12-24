@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "name": "vionous-super user",
+    "version": "1.0.0",
+    "created": "2025-12-24T09:20:18.371476",
+    "source": "Super User Stack Exchange",
+    "license": "CC-BY-SA 4.0"
+  },
+  "dataset_size": {
+    "total_pairs": 322088,
+    "train_pairs": 289879,
+    "val_pairs": 32209,
+    "train_val_split": "90/10"
+  },
+  "source_stats": {
+    "total_questions": 505136,
+    "questions_with_answers": 412868,
+    "pairs_created": 322088,
+    "min_score_filter": 1
+  },
+  "quality_metrics": {
+    "accepted_answer_ratio": 0.6285828717617545,
+    "avg_question_score": 4.004073420928442,
+    "avg_answer_score": 4.584585579096396
+  },
+  "top_tags": {
+    "|microsoft-excel|": 3722,
+    "|microsoft-excel|worksheet-function|": 2138,
+    "|windows-7|": 1744,
+    "|windows|": 1100,
+    "|windows-10|": 1020,
+    "|linux|": 1007,
+    "|google-chrome|": 956,
+    "|microsoft-word|": 948,
+    "|ffmpeg|": 669,
+    "|vim|": 652,
+    "|firefox|": 645,
+    "|notepad++|": 586,
+    "|networking|": 572,
+    "|windows-8|": 526,
+    "|microsoft-excel|microsoft-excel-2010|": 521,
+    "|powershell|": 496,
+    "|microsoft-excel|vba|": 489,
+    "|wireless-networking|": 487,
+    "|macos|": 451,
+    "|hard-drive|": 448
+  }
+}

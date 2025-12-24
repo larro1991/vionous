@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "name": "vionous-tex latex",
+    "version": "1.0.0",
+    "created": "2025-12-24T09:23:27.099421",
+    "source": "TeX LaTeX Stack Exchange",
+    "license": "CC-BY-SA 4.0"
+  },
+  "dataset_size": {
+    "total_pairs": 207423,
+    "train_pairs": 186680,
+    "val_pairs": 20743,
+    "train_val_split": "90/10"
+  },
+  "source_stats": {
+    "total_questions": 259202,
+    "questions_with_answers": 217618,
+    "pairs_created": 207423,
+    "min_score_filter": 1
+  },
+  "quality_metrics": {
+    "accepted_answer_ratio": 0.726553950140534,
+    "avg_question_score": 5.119827598675171,
+    "avg_answer_score": 5.808873654319917
+  },
+  "top_tags": {
+    "|tikz-pgf|": 6989,
+    "|tables|": 2934,
+    "|biblatex|": 1714,
+    "|pgfplots|": 1635,
+    "|tikz-pgf|pgfplots|": 1616,
+    "|beamer|": 1176,
+    "|macros|": 1045,
+    "|math-mode|": 928,
+    "|symbols|": 848,
+    "|fonts|": 788,
+    "|table-of-contents|": 742,
+    "|equations|": 663,
+    "|bibtex|": 640,
+    "|graphics|": 573,
+    "|spacing|": 513,
+    "|tikz-pgf|diagrams|": 489,
+    "|bibliographies|": 467,
+    "|listings|": 464,
+    "|formatting|": 409,
+    "|tikz-pgf|tikz-arrows|": 406
+  }
+}

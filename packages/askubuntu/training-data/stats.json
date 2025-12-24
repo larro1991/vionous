@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "name": "vionous-ask ubuntu",
+    "version": "1.0.0",
+    "created": "2025-12-24T09:17:13.158305",
+    "source": "Ask Ubuntu Stack Exchange",
+    "license": "CC-BY-SA 4.0"
+  },
+  "dataset_size": {
+    "total_pairs": 238910,
+    "train_pairs": 215019,
+    "val_pairs": 23891,
+    "train_val_split": "90/10"
+  },
+  "source_stats": {
+    "total_questions": 414451,
+    "questions_with_answers": 318537,
+    "pairs_created": 238910,
+    "min_score_filter": 1
+  },
+  "quality_metrics": {
+    "accepted_answer_ratio": 0.5643798920095433,
+    "avg_question_score": 5.170055669498974,
+    "avg_answer_score": 5.85381524423423
+  },
+  "top_tags": {
+    "|command-line|": 1390,
+    "|system-installation|": 800,
+    "|software-installation|": 790,
+    "|apt|": 747,
+    "|command-line|bash|": 628,
+    "|bash|": 598,
+    "|14.04|": 596,
+    "|networking|": 559,
+    "|12.04|": 535,
+    "|command-line|bash|scripts|": 508,
+    "|boot|": 486,
+    "|wireless|": 476,
+    "|upgrade|": 431,
+    "|partitioning|": 406,
+    "|bash|scripts|": 400,
+    "|libreoffice|": 387,
+    "|16.04|": 387,
+    "|virtualbox|": 359,
+    "|dual-boot|": 356,
+    "|package-management|": 349
+  }
+}

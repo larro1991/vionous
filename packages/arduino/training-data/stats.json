@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "name": "vionous-arduino",
+    "version": "1.0.0",
+    "created": "2025-12-24T09:26:39.032978",
+    "source": "Arduino Stack Exchange",
+    "license": "CC-BY-SA 4.0"
+  },
+  "dataset_size": {
+    "total_pairs": 20064,
+    "train_pairs": 18057,
+    "val_pairs": 2007,
+    "train_val_split": "90/10"
+  },
+  "source_stats": {
+    "total_questions": 24704,
+    "questions_with_answers": 21046,
+    "pairs_created": 20064,
+    "min_score_filter": 1
+  },
+  "quality_metrics": {
+    "accepted_answer_ratio": 0.52497009569378,
+    "avg_question_score": 1.3072667464114833,
+    "avg_answer_score": 2.139553429027113
+  },
+  "top_tags": {
+    "|arduino-uno|": 1045,
+    "|arduino-mega|": 190,
+    "|esp8266|": 186,
+    "|serial|": 179,
+    "|programming|": 149,
+    "|sensors|": 149,
+    "|arduino-ide|": 138,
+    "|arduino-nano|": 108,
+    "|arduino-uno|sensors|": 103,
+    "|arduino-uno|esp8266|": 95,
+    "|arduino-uno|serial|": 90,
+    "|led|": 89,
+    "|arduino-uno|programming|": 82,
+    "|c++|": 70,
+    "|power|": 67,
+    "|i2c|": 64,
+    "|esp32|": 62,
+    "|lcd|": 53,
+    "|arduino-due|": 52,
+    "|library|": 52
+  }
+}

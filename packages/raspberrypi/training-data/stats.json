@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "name": "vionous-raspberry pi",
+    "version": "1.0.0",
+    "created": "2025-12-24T09:26:28.734177",
+    "source": "Raspberry Pi Stack Exchange",
+    "license": "CC-BY-SA 4.0"
+  },
+  "dataset_size": {
+    "total_pairs": 26536,
+    "train_pairs": 23882,
+    "val_pairs": 2654,
+    "train_val_split": "90/10"
+  },
+  "source_stats": {
+    "total_questions": 37889,
+    "questions_with_answers": 29756,
+    "pairs_created": 26536,
+    "min_score_filter": 1
+  },
+  "quality_metrics": {
+    "accepted_answer_ratio": 0.5004145312028941,
+    "avg_question_score": 2.6653225806451615,
+    "avg_answer_score": 2.9640865239674405
+  },
+  "top_tags": {
+    "|raspbian|": 509,
+    "|gpio|": 364,
+    "|pi-3|": 196,
+    "|python|": 193,
+    "|networking|": 161,
+    "|hardware|": 130,
+    "|ssh|": 122,
+    "|sd-card|": 120,
+    "|wifi|": 117,
+    "|camera|": 111,
+    "|boot|": 109,
+    "|pi-2|": 100,
+    "|pi-4|": 84,
+    "|bluetooth|": 81,
+    "|raspbian|python|": 79,
+    "|audio|": 76,
+    "|i2c|": 75,
+    "|power-supply|": 73,
+    "|gpio|python|": 71,
+    "|raspbian|pi-3|": 66
+  }
+}

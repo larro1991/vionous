@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "name": "vionous-bitcoin",
+    "version": "1.0.0",
+    "created": "2025-12-24T09:22:01.672793",
+    "source": "Bitcoin Stack Exchange",
+    "license": "CC-BY-SA 4.0"
+  },
+  "dataset_size": {
+    "total_pairs": 25937,
+    "train_pairs": 23343,
+    "val_pairs": 2594,
+    "train_val_split": "90/10"
+  },
+  "source_stats": {
+    "total_questions": 30992,
+    "questions_with_answers": 27572,
+    "pairs_created": 25937,
+    "min_score_filter": 1
+  },
+  "quality_metrics": {
+    "accepted_answer_ratio": 0.515171376797625,
+    "avg_question_score": 2.750318078420789,
+    "avg_answer_score": 3.149631800131087
+  },
+  "top_tags": {
+    "|transactions|": 332,
+    "|bitcoin-core|": 301,
+    "|blockchain|": 263,
+    "|wallet|": 219,
+    "|bitcoind|": 187,
+    "|lightning-network|": 111,
+    "|transaction-fees|": 104,
+    "|exchanges|": 97,
+    "|blockchain.info|": 77,
+    "|address|": 75,
+    "|mining-pools|": 71,
+    "|multi-signature|": 71,
+    "|mining-theory|": 69,
+    "|bitcoin-core|bitcoind|": 64,
+    "|buy-bitcoins|": 64,
+    "|electrum|": 62,
+    "|ripple|": 61,
+    "|script|": 56,
+    "|transactions|blockchain|": 56,
+    "|unconfirmed-transactions|": 54
+  }
+}

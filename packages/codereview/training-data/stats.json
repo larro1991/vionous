@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "name": "vionous-code review",
+    "version": "1.0.0",
+    "created": "2025-12-24T09:14:47.510039",
+    "source": "Code Review Stack Exchange",
+    "license": "CC-BY-SA 4.0"
+  },
+  "dataset_size": {
+    "total_pairs": 70790,
+    "train_pairs": 63711,
+    "val_pairs": 7079,
+    "train_val_split": "90/10"
+  },
+  "source_stats": {
+    "total_questions": 77533,
+    "questions_with_answers": 71050,
+    "pairs_created": 70790,
+    "min_score_filter": 1
+  },
+  "quality_metrics": {
+    "accepted_answer_ratio": 0.6417996892216414,
+    "avg_question_score": 4.226289023873428,
+    "avg_answer_score": 4.018943353581014
+  },
+  "top_tags": {
+    "|c#|": 850,
+    "|python|": 845,
+    "|java|": 813,
+    "|javascript|": 757,
+    "|javascript|jquery|": 551,
+    "|python|python-3.x|": 520,
+    "|c++|": 428,
+    "|php|": 404,
+    "|vba|excel|": 322,
+    "|c|": 248,
+    "|haskell|": 188,
+    "|ruby|ruby-on-rails|": 186,
+    "|ruby|": 171,
+    "|java|android|": 171,
+    "|c#|linq|": 151,
+    "|python|performance|": 140,
+    "|java|beginner|": 139,
+    "|performance|vba|excel|": 136,
+    "|c#|.net|": 127,
+    "|python|beginner|python-3.x|": 123
+  }
+}

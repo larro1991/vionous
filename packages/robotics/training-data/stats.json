@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "name": "vionous-robotics",
+    "version": "1.0.0",
+    "created": "2025-12-24T09:26:58.627269",
+    "source": "Robotics Stack Exchange",
+    "license": "CC-BY-SA 4.0"
+  },
+  "dataset_size": {
+    "total_pairs": 42281,
+    "train_pairs": 38052,
+    "val_pairs": 4229,
+    "train_val_split": "90/10"
+  },
+  "source_stats": {
+    "total_questions": 45274,
+    "questions_with_answers": 43289,
+    "pairs_created": 42281,
+    "min_score_filter": 1
+  },
+  "quality_metrics": {
+    "accepted_answer_ratio": 0.924386840424777,
+    "avg_question_score": 0.29521534495399826,
+    "avg_answer_score": 0.32456659019417705
+  },
+  "top_tags": {
+    "|ros|": 3313,
+    "|gazebo|": 1020,
+    "|ros2|": 612,
+    "|ros-kinetic|": 501,
+    "|ros-melodic|": 391,
+    "|rviz|": 199,
+    "|roslaunch|": 173,
+    "|ros-indigo|": 119,
+    "|moveit|": 118,
+    "|catkin|": 118,
+    "|transform|": 107,
+    "|navigation|": 104,
+    "|rosjava|": 101,
+    "|rosbag|": 100,
+    "|ros|ros-melodic|": 99,
+    "|ros|ros-kinetic|": 97,
+    "|arduino|rosserial|": 89,
+    "|turtlebot|": 88,
+    "|navigation|move-base|": 88,
+    "|quadcopter|": 75
+  }
+}

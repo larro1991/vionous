@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "name": "vionous-software qa",
+    "version": "1.0.0",
+    "created": "2025-12-24T09:21:54.043156",
+    "source": "Software QA Stack Exchange",
+    "license": "CC-BY-SA 4.0"
+  },
+  "dataset_size": {
+    "total_pairs": 9982,
+    "train_pairs": 8983,
+    "val_pairs": 999,
+    "train_val_split": "90/10"
+  },
+  "source_stats": {
+    "total_questions": 11681,
+    "questions_with_answers": 10911,
+    "pairs_created": 9982,
+    "min_score_filter": 1
+  },
+  "quality_metrics": {
+    "accepted_answer_ratio": 0.4257663794830695,
+    "avg_question_score": 2.7845121218192745,
+    "avg_answer_score": 2.99529152474454
+  },
+  "top_tags": {
+    "|automated-testing|": 218,
+    "|jmeter|": 211,
+    "|selenium-webdriver|": 205,
+    "|selenium-webdriver|java|": 116,
+    "|manual-testing|": 115,
+    "|selenium-webdriver|python|": 100,
+    "|selenium|": 93,
+    "|automated-testing|selenium-webdriver|": 74,
+    "|automated-testing|selenium-webdriver|java|": 73,
+    "|selenium|webdriver|": 65,
+    "|automated-testing|selenium|": 60,
+    "|selenium-webdriver|c#|": 60,
+    "|test-management|": 42,
+    "|jmeter|performance|": 40,
+    "|selenium|selenium-webdriver|": 40,
+    "|selenium-webdriver|xpath|": 38,
+    "|selenium|java|": 36,
+    "|jmeter|jmeter-plugins|": 35,
+    "|unit-tests|": 35,
+    "|jmeter|performance|load-testing|": 34
+  }
+}

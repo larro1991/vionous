@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "name": "vionous-unix & linux",
+    "version": "1.0.0",
+    "created": "2025-12-24T09:15:53.008748",
+    "source": "Unix & Linux Stack Exchange",
+    "license": "CC-BY-SA 4.0"
+  },
+  "dataset_size": {
+    "total_pairs": 172180,
+    "train_pairs": 154962,
+    "val_pairs": 17218,
+    "train_val_split": "90/10"
+  },
+  "source_stats": {
+    "total_questions": 238249,
+    "questions_with_answers": 199966,
+    "pairs_created": 172180,
+    "min_score_filter": 1
+  },
+  "quality_metrics": {
+    "accepted_answer_ratio": 0.6474271111627367,
+    "avg_question_score": 5.196068068300615,
+    "avg_answer_score": 6.403676385178302
+  },
+  "top_tags": {
+    "|bash|": 1513,
+    "|bash|shell-script|": 1153,
+    "|shell-script|": 867,
+    "|text-processing|": 743,
+    "|awk|": 740,
+    "|linux|": 665,
+    "|sed|": 642,
+    "|text-processing|awk|": 574,
+    "|ssh|": 444,
+    "|grep|": 432,
+    "|text-processing|sed|": 392,
+    "|systemd|": 369,
+    "|find|": 337,
+    "|vim|": 336,
+    "|shell|": 336,
+    "|rsync|": 319,
+    "|bash|shell|": 302,
+    "|tmux|": 299,
+    "|text-processing|awk|sed|": 280,
+    "|debian|": 272
+  }
+}

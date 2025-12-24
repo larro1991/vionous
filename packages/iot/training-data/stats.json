@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "name": "vionous-internet of things",
+    "version": "1.0.0",
+    "created": "2025-12-24T09:26:41.479375",
+    "source": "Internet of Things Stack Exchange",
+    "license": "CC-BY-SA 4.0"
+  },
+  "dataset_size": {
+    "total_pairs": 1643,
+    "train_pairs": 1478,
+    "val_pairs": 165,
+    "train_val_split": "90/10"
+  },
+  "source_stats": {
+    "total_questions": 2259,
+    "questions_with_answers": 1674,
+    "pairs_created": 1643,
+    "min_score_filter": 1
+  },
+  "quality_metrics": {
+    "accepted_answer_ratio": 0.5106512477175897,
+    "avg_question_score": 6.076080340839927,
+    "avg_answer_score": 4.410225197808886
+  },
+  "top_tags": {
+    "|mqtt|": 36,
+    "|alexa|amazon-echo|": 29,
+    "|mqtt|mosquitto|": 26,
+    "|smart-home|": 23,
+    "|alexa|": 17,
+    "|google-home|google-assistant|": 16,
+    "|esp8266|": 15,
+    "|lora|lorawan|": 15,
+    "|google-home|": 14,
+    "|esp32|": 13,
+    "|sensors|": 13,
+    "|networking|": 11,
+    "|smart-lights|": 10,
+    "|definitions|": 9,
+    "|protocols|": 9,
+    "|amazon-echo|": 9,
+    "|raspberry-pi|": 8,
+    "|smart-plugs|": 8,
+    "|home-assistant|": 8,
+    "|smart-home|security|": 7
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "name": "vionous-server fault",
+    "version": "1.0.0",
+    "created": "2025-12-24T09:18:28.882265",
+    "source": "Server Fault Stack Exchange",
+    "license": "CC-BY-SA 4.0"
+  },
+  "dataset_size": {
+    "total_pairs": 241487,
+    "train_pairs": 217338,
+    "val_pairs": 24149,
+    "train_val_split": "90/10"
+  },
+  "source_stats": {
+    "total_questions": 325169,
+    "questions_with_answers": 286096,
+    "pairs_created": 241487,
+    "min_score_filter": 1
+  },
+  "quality_metrics": {
+    "accepted_answer_ratio": 0.6267832222852576,
+    "avg_question_score": 2.742818453995453,
+    "avg_answer_score": 3.664648614625218
+  },
+  "top_tags": {
+    "|nginx|": 1510,
+    "|apache-2.2|": 832,
+    "|linux|": 740,
+    "|mysql|": 720,
+    "|domain-name-system|": 701,
+    "|postfix|": 640,
+    "|untagged|": 526,
+    "|active-directory|": 479,
+    "|sql-server|": 432,
+    "|ssh|": 431,
+    "|networking|": 429,
+    "|windows|": 401,
+    "|ansible|": 367,
+    "|puppet|": 360,
+    "|iptables|": 359,
+    "|windows-server-2008|": 344,
+    "|powershell|": 344,
+    "|azure|": 305,
+    "|amazon-ec2|": 285,
+    "|haproxy|": 267
+  }
+}

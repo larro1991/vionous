@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "name": "vionous-magento",
+    "version": "1.0.0",
+    "created": "2025-12-24T09:24:49.106554",
+    "source": "Magento Stack Exchange",
+    "license": "CC-BY-SA 4.0"
+  },
+  "dataset_size": {
+    "total_pairs": 67089,
+    "train_pairs": 60380,
+    "val_pairs": 6709,
+    "train_val_split": "90/10"
+  },
+  "source_stats": {
+    "total_questions": 113069,
+    "questions_with_answers": 92761,
+    "pairs_created": 67089,
+    "min_score_filter": 1
+  },
+  "quality_metrics": {
+    "accepted_answer_ratio": 0.6103534111404254,
+    "avg_question_score": 1.921894796464398,
+    "avg_answer_score": 2.7677711696403287
+  },
+  "top_tags": {
+    "|magento2|": 2540,
+    "|magento-1.9|": 1569,
+    "|magento-1.7|": 343,
+    "|magento2|magento-2.1|": 266,
+    "|magento-1.8|": 238,
+    "|magento-2.1|": 211,
+    "|magento2|magento2.3|": 166,
+    "|magento2.3|": 127,
+    "|magento-1.9|php|": 125,
+    "|magento2|php|": 108,
+    "|magento2|checkout|": 101,
+    "|magento2|database|": 99,
+    "|magento2|rest-api|": 98,
+    "|magento2|event-observer|": 90,
+    "|magento2|theme|": 88,
+    "|magento-1.9|database|": 86,
+    "|product|": 76,
+    "|category|": 75,
+    "|magento-enterprise|": 75,
+    "|magento2|module|": 73
+  }
+}

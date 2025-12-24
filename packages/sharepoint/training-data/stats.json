@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "name": "vionous-sharepoint",
+    "version": "1.0.0",
+    "created": "2025-12-24T09:25:33.996406",
+    "source": "SharePoint Stack Exchange",
+    "license": "CC-BY-SA 4.0"
+  },
+  "dataset_size": {
+    "total_pairs": 65755,
+    "train_pairs": 59179,
+    "val_pairs": 6576,
+    "train_val_split": "90/10"
+  },
+  "source_stats": {
+    "total_questions": 102488,
+    "questions_with_answers": 87894,
+    "pairs_created": 65755,
+    "min_score_filter": 1
+  },
+  "quality_metrics": {
+    "accepted_answer_ratio": 0.5999695840620485,
+    "avg_question_score": 1.475416318150711,
+    "avg_answer_score": 1.8273591361873622
+  },
+  "top_tags": {
+    "|sharepoint-online|": 804,
+    "|sharepoint-enterprise|": 683,
+    "|sharepoint-designer|": 413,
+    "|2010|": 394,
+    "|sharepoint-foundation|": 285,
+    "|2013|": 279,
+    "|web-part|": 260,
+    "|workflow|": 256,
+    "|infopath|": 236,
+    "|powershell|": 226,
+    "|sharepoint-server|": 225,
+    "|list|": 205,
+    "|2007|": 195,
+    "|development|": 181,
+    "|search|": 156,
+    "|permissions|": 149,
+    "|sharepoint-online|office-365|": 138,
+    "|document-library|": 126,
+    "|sharepoint-addin|": 117,
+    "|javascript|": 114
+  }
+}

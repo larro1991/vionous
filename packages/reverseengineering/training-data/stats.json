@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "name": "vionous-reverse engineering",
+    "version": "1.0.0",
+    "created": "2025-12-24T09:20:24.555886",
+    "source": "Reverse Engineering Stack Exchange",
+    "license": "CC-BY-SA 4.0"
+  },
+  "dataset_size": {
+    "total_pairs": 7301,
+    "train_pairs": 6570,
+    "val_pairs": 731,
+    "train_val_split": "90/10"
+  },
+  "source_stats": {
+    "total_questions": 9681,
+    "questions_with_answers": 7535,
+    "pairs_created": 7301,
+    "min_score_filter": 1
+  },
+  "quality_metrics": {
+    "accepted_answer_ratio": 0.5528009861662786,
+    "avg_question_score": 3.035885495137652,
+    "avg_answer_score": 3.6744281605259554
+  },
+  "top_tags": {
+    "|ida|": 222,
+    "|radare2|": 95,
+    "|ida|idapython|": 86,
+    "|ollydbg|": 77,
+    "|disassembly|": 62,
+    "|assembly|": 59,
+    "|ghidra|": 54,
+    "|firmware|": 45,
+    "|ida|disassembly|": 39,
+    "|hardware|": 38,
+    "|file-format|": 35,
+    "|assembly|x86|": 33,
+    "|ida|hexrays|": 29,
+    "|android|": 29,
+    "|windows|": 29,
+    "|x64dbg|": 28,
+    "|binary-analysis|": 27,
+    "|gdb|": 26,
+    "|malware|": 26,
+    "|decryption|": 22
+  }
+}

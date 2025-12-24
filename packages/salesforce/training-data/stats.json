@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "name": "vionous-salesforce",
+    "version": "1.0.0",
+    "created": "2025-12-24T09:25:17.018093",
+    "source": "Salesforce Stack Exchange",
+    "license": "CC-BY-SA 4.0"
+  },
+  "dataset_size": {
+    "total_pairs": 95350,
+    "train_pairs": 85815,
+    "val_pairs": 9535,
+    "train_val_split": "90/10"
+  },
+  "source_stats": {
+    "total_questions": 133827,
+    "questions_with_answers": 112302,
+    "pairs_created": 95350,
+    "min_score_filter": 1
+  },
+  "quality_metrics": {
+    "accepted_answer_ratio": 0.6434189826953329,
+    "avg_question_score": 1.7766334556895647,
+    "avg_answer_score": 2.6989197692711064
+  },
+  "top_tags": {
+    "|apex|": 2392,
+    "|apex|visualforce|": 1481,
+    "|visualforce|": 1217,
+    "|apex|trigger|": 1134,
+    "|lightning-web-components|": 955,
+    "|lightning-aura-components|": 916,
+    "|marketing-cloud|ampscript|": 845,
+    "|marketing-cloud|": 747,
+    "|soql|": 583,
+    "|trigger|": 535,
+    "|apex|unit-test|": 535,
+    "|apex|soql|": 514,
+    "|lightning-aura-components|lightning|": 368,
+    "|marketing-cloud|journeybuilder|": 303,
+    "|unit-test|": 270,
+    "|apex|batch|": 262,
+    "|visualforce|javascript|": 241,
+    "|salesforcedx|": 212,
+    "|validation-rule|": 207,
+    "|community|": 198
+  }
+}

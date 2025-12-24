@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "name": "vionous-webmasters",
+    "version": "1.0.0",
+    "created": "2025-12-24T09:21:42.326574",
+    "source": "Webmasters Stack Exchange",
+    "license": "CC-BY-SA 4.0"
+  },
+  "dataset_size": {
+    "total_pairs": 32300,
+    "train_pairs": 29070,
+    "val_pairs": 3230,
+    "train_val_split": "90/10"
+  },
+  "source_stats": {
+    "total_questions": 38235,
+    "questions_with_answers": 33186,
+    "pairs_created": 32300,
+    "min_score_filter": 1
+  },
+  "quality_metrics": {
+    "accepted_answer_ratio": 0.49043343653250776,
+    "avg_question_score": 2.6805263157894736,
+    "avg_answer_score": 2.6586687306501546
+  },
+  "top_tags": {
+    "|google-analytics|": 799,
+    "|seo|": 475,
+    "|google-search-console|": 190,
+    "|domains|": 161,
+    "|google-adsense|": 152,
+    "|seo|google|": 121,
+    "|web-hosting|": 106,
+    "|mediawiki|": 90,
+    "|htaccess|": 81,
+    "|seo|google-search|": 81,
+    "|seo|google-search-console|": 74,
+    "|google|": 73,
+    "|google-analytics|analytics|": 69,
+    "|robots.txt|": 67,
+    "|domains|domain-registration|": 67,
+    "|seo|duplicate-content|": 65,
+    "|seo|url|": 62,
+    "|google-analytics|google-tag-manager|": 62,
+    "|google-ads|": 61,
+    "|dns|": 59
+  }
+}

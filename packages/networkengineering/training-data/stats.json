@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "name": "vionous-network engineering",
+    "version": "1.0.0",
+    "created": "2025-12-24T09:21:00.466836",
+    "source": "Network Engineering Stack Exchange",
+    "license": "CC-BY-SA 4.0"
+  },
+  "dataset_size": {
+    "total_pairs": 15204,
+    "train_pairs": 13683,
+    "val_pairs": 1521,
+    "train_val_split": "90/10"
+  },
+  "source_stats": {
+    "total_questions": 16633,
+    "questions_with_answers": 15556,
+    "pairs_created": 15204,
+    "min_score_filter": 1
+  },
+  "quality_metrics": {
+    "accepted_answer_ratio": 0.6443699026571955,
+    "avg_question_score": 2.58602999210734,
+    "avg_answer_score": 3.5052617732175744
+  },
+  "top_tags": {
+    "|cisco|": 172,
+    "|tcp|": 131,
+    "|routing|": 109,
+    "|wireless|": 99,
+    "|vlan|": 87,
+    "|ethernet|": 86,
+    "|bgp|": 81,
+    "|switch|": 80,
+    "|network|": 71,
+    "|cisco-asa|": 69,
+    "|ieee-802.11|": 66,
+    "|routing|bgp|": 59,
+    "|subnet|": 55,
+    "|router|": 55,
+    "|ipv4|": 53,
+    "|networking|": 53,
+    "|wireless|ieee-802.11|": 52,
+    "|wireshark|": 51,
+    "|spanning-tree|": 51,
+    "|ospf|": 50
+  }
+}

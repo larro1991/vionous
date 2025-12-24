@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "name": "vionous-drupal",
+    "version": "1.0.0",
+    "created": "2025-12-24T09:24:23.783248",
+    "source": "Drupal Stack Exchange",
+    "license": "CC-BY-SA 4.0"
+  },
+  "dataset_size": {
+    "total_pairs": 60398,
+    "train_pairs": 54358,
+    "val_pairs": 6040,
+    "train_val_split": "90/10"
+  },
+  "source_stats": {
+    "total_questions": 87691,
+    "questions_with_answers": 74723,
+    "pairs_created": 60398,
+    "min_score_filter": 1
+  },
+  "quality_metrics": {
+    "accepted_answer_ratio": 0.6617603231895096,
+    "avg_question_score": 1.70176164773668,
+    "avg_answer_score": 2.5558462200735126
+  },
+  "top_tags": {
+    "|7|": 1760,
+    "|views|": 1644,
+    "|theming|": 1297,
+    "|8|": 1195,
+    "|7|views|": 1021,
+    "|entities|": 776,
+    "|users|": 763,
+    "|forms|": 749,
+    "|7|theming|": 743,
+    "|nodes|": 663,
+    "|commerce|": 661,
+    "|7|entities|": 623,
+    "|drush|": 607,
+    "|7|forms|": 570,
+    "|7|users|": 553,
+    "|database|": 476,
+    "|7|nodes|": 470,
+    "|8|theming|": 457,
+    "|8|entities|": 408,
+    "|javascript|": 391
+  }
+}
