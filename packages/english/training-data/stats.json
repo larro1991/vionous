@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "name": "vionous-english language",
+    "version": "1.0.0",
+    "created": "2025-12-24T09:08:22.636641",
+    "source": "English Language Stack Exchange",
+    "license": "CC-BY-SA 4.0"
+  },
+  "dataset_size": {
+    "total_pairs": 113224,
+    "train_pairs": 101901,
+    "val_pairs": 11323,
+    "train_val_split": "90/10"
+  },
+  "source_stats": {
+    "total_questions": 130631,
+    "questions_with_answers": 120253,
+    "pairs_created": 113224,
+    "min_score_filter": 1
+  },
+  "quality_metrics": {
+    "accepted_answer_ratio": 0.5445841870981417,
+    "avg_question_score": 3.527467674697944,
+    "avg_answer_score": 5.250733060128595
+  },
+  "top_tags": {
+    "|single-word-requests|": 7650,
+    "|meaning|": 3874,
+    "|grammar|": 3263,
+    "|word-choice|": 2054,
+    "|word-usage|": 1800,
+    "|single-word-requests|phrase-requests|": 1404,
+    "|etymology|": 1226,
+    "|meaning-in-context|": 1218,
+    "|expressions|": 951,
+    "|grammaticality|": 901,
+    "|phrases|": 810,
+    "|prepositions|": 787,
+    "|phrase-requests|": 749,
+    "|synonyms|": 677,
+    "|meaning|meaning-in-context|": 660,
+    "|grammatical-number|": 630,
+    "|idioms|": 604,
+    "|pronunciation|": 589,
+    "|differences|": 572,
+    "|punctuation|": 495
+  }
+}

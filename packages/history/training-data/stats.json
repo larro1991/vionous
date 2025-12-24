@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "name": "vionous-history",
+    "version": "1.0.0",
+    "created": "2025-12-24T09:08:32.962477",
+    "source": "History Stack Exchange",
+    "license": "CC-BY-SA 4.0"
+  },
+  "dataset_size": {
+    "total_pairs": 12970,
+    "train_pairs": 11673,
+    "val_pairs": 1297,
+    "train_val_split": "90/10"
+  },
+  "source_stats": {
+    "total_questions": 14864,
+    "questions_with_answers": 13104,
+    "pairs_created": 12970,
+    "min_score_filter": 1
+  },
+  "quality_metrics": {
+    "accepted_answer_ratio": 0.5509637625289129,
+    "avg_question_score": 8.581341557440247,
+    "avg_answer_score": 11.428681572860448
+  },
+  "top_tags": {
+    "|world-war-two|": 111,
+    "|united-states|": 81,
+    "|military|": 52,
+    "|ancient-rome|": 47,
+    "|ancient-history|": 46,
+    "|world-war-one|": 45,
+    "|american-civil-war|": 43,
+    "|middle-ages|": 36,
+    "|world-war-two|nazi-germany|": 34,
+    "|historiography|": 31,
+    "|world-war-two|ww2-european-theater|": 30,
+    "|war|": 29,
+    "|ancient-egypt|": 28,
+    "|soviet-union|": 24,
+    "|china|": 23,
+    "|world-war-two|nazi-germany|soviet-union|": 23,
+    "|nazi-germany|": 23,
+    "|roman-empire|": 22,
+    "|calendar|": 22,
+    "|military|identification|uniform|": 21
+  }
+}
