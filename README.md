@@ -29,6 +29,12 @@ Instead of every company rebuilding the same knowledge, we build it once and sha
 
 ## 🚀 Quick Start
 
+### One-Click Training (Google Colab)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/larro1991/vionous/blob/main/notebooks/vionous_comics_trainer.ipynb)
+
+Train a comics knowledge adapter in ~2-4 hours on a free T4 GPU. No setup required.
+
 ### Use a Knowledge Package
 
 ```bash
