@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "name": "vionous-space exploration",
+    "version": "1.0.0",
+    "created": "2025-12-24T09:10:11.689314",
+    "source": "Space Exploration Stack Exchange",
+    "license": "CC-BY-SA 4.0"
+  },
+  "dataset_size": {
+    "total_pairs": 16005,
+    "train_pairs": 14404,
+    "val_pairs": 1601,
+    "train_val_split": "90/10"
+  },
+  "source_stats": {
+    "total_questions": 18866,
+    "questions_with_answers": 16085,
+    "pairs_created": 16005,
+    "min_score_filter": 1
+  },
+  "quality_metrics": {
+    "accepted_answer_ratio": 0.6134333020930959,
+    "avg_question_score": 8.091846298031864,
+    "avg_answer_score": 10.105467041549515
+  },
+  "top_tags": {
+    "|orbital-mechanics|": 101,
+    "|iss|": 61,
+    "|apollo-program|": 41,
+    "|artificial-satellite|": 39,
+    "|the-moon|": 34,
+    "|rockets|": 32,
+    "|space-shuttle|": 31,
+    "|launch|": 31,
+    "|mars|": 26,
+    "|james-webb-telescope|": 24,
+    "|spacex|spacex-starship|": 21,
+    "|spacex|": 19,
+    "|spacex|falcon-9|": 19,
+    "|propulsion|": 18,
+    "|orbital-mechanics|orbit|": 17,
+    "|orbital-mechanics|orbital-maneuver|": 17,
+    "|spacesuits|": 17,
+    "|mars|colonization|": 16,
+    "|spacecraft|": 16,
+    "|gravity|": 16
+  }
+}

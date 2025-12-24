@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "name": "vionous-data science",
+    "version": "1.0.0",
+    "created": "2025-12-24T09:11:13.779110",
+    "source": "Data Science Stack Exchange",
+    "license": "CC-BY-SA 4.0"
+  },
+  "dataset_size": {
+    "total_pairs": 23899,
+    "train_pairs": 21509,
+    "val_pairs": 2390,
+    "train_val_split": "90/10"
+  },
+  "source_stats": {
+    "total_questions": 36775,
+    "questions_with_answers": 28082,
+    "pairs_created": 23899,
+    "min_score_filter": 1
+  },
+  "quality_metrics": {
+    "accepted_answer_ratio": 0.5075944600192477,
+    "avg_question_score": 2.7684003514791415,
+    "avg_answer_score": 2.7063475459224233
+  },
+  "top_tags": {
+    "|machine-learning|": 313,
+    "|python|pandas|": 156,
+    "|neural-network|": 136,
+    "|r|": 113,
+    "|python|": 106,
+    "|machine-learning|neural-network|": 91,
+    "|nlp|": 90,
+    "|reinforcement-learning|": 76,
+    "|classification|": 75,
+    "|machine-learning|deep-learning|": 70,
+    "|clustering|": 70,
+    "|machine-learning|classification|": 70,
+    "|machine-learning|neural-network|deep-learning|": 60,
+    "|python|pandas|dataframe|": 57,
+    "|deep-learning|": 55,
+    "|dataset|": 52,
+    "|machine-learning|python|": 50,
+    "|visualization|": 50,
+    "|keras|": 50,
+    "|pandas|": 45
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "name": "vionous-statistics",
+    "version": "1.0.0",
+    "created": "2025-12-24T09:11:01.531932",
+    "source": "Statistics Stack Exchange",
+    "license": "CC-BY-SA 4.0"
+  },
+  "dataset_size": {
+    "total_pairs": 131496,
+    "train_pairs": 118346,
+    "val_pairs": 13150,
+    "train_val_split": "90/10"
+  },
+  "source_stats": {
+    "total_questions": 213761,
+    "questions_with_answers": 145089,
+    "pairs_created": 131496,
+    "min_score_filter": 1
+  },
+  "quality_metrics": {
+    "accepted_answer_ratio": 0.543187625479102,
+    "avg_question_score": 4.176796252357486,
+    "avg_answer_score": 4.290267384559226
+  },
+  "top_tags": {
+    "|regression|": 757,
+    "|probability|": 712,
+    "|hypothesis-testing|": 434,
+    "|r|": 330,
+    "|time-series|": 325,
+    "|machine-learning|": 316,
+    "|correlation|": 293,
+    "|neural-networks|": 280,
+    "|r|regression|": 252,
+    "|probability|self-study|": 229,
+    "|data-visualization|": 224,
+    "|machine-learning|neural-networks|": 223,
+    "|distributions|": 205,
+    "|confidence-interval|": 201,
+    "|regression|logistic|": 187,
+    "|clustering|": 183,
+    "|mathematical-statistics|": 180,
+    "|statistical-significance|": 179,
+    "|pca|": 167,
+    "|bayesian|": 164
+  }
+}

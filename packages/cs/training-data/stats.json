@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "name": "vionous-computer science",
+    "version": "1.0.0",
+    "created": "2025-12-24T09:11:34.378827",
+    "source": "Computer Science Stack Exchange",
+    "license": "CC-BY-SA 4.0"
+  },
+  "dataset_size": {
+    "total_pairs": 36545,
+    "train_pairs": 32890,
+    "val_pairs": 3655,
+    "train_val_split": "90/10"
+  },
+  "source_stats": {
+    "total_questions": 48390,
+    "questions_with_answers": 38251,
+    "pairs_created": 36545,
+    "min_score_filter": 1
+  },
+  "quality_metrics": {
+    "accepted_answer_ratio": 0.5969079217403201,
+    "avg_question_score": 2.8268983445067724,
+    "avg_answer_score": 3.5456286769735943
+  },
+  "top_tags": {
+    "|algorithms|": 637,
+    "|complexity-theory|": 363,
+    "|graphs|": 303,
+    "|algorithms|graphs|": 278,
+    "|computer-architecture|": 236,
+    "|asymptotics|": 236,
+    "|turing-machines|": 233,
+    "|automata|finite-automata|": 201,
+    "|formal-languages|regular-languages|": 154,
+    "|finite-automata|": 140,
+    "|formal-languages|context-free|formal-grammars|": 135,
+    "|computability|": 129,
+    "|time-complexity|": 124,
+    "|formal-languages|": 121,
+    "|asymptotics|landau-notation|": 115,
+    "|algorithms|graphs|shortest-path|": 114,
+    "|algorithms|computational-geometry|": 113,
+    "|lambda-calculus|": 106,
+    "|operating-systems|": 106,
+    "|algorithms|sorting|": 103
+  }
+}

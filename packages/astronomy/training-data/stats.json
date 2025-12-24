@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "name": "vionous-astronomy",
+    "version": "1.0.0",
+    "created": "2025-12-24T09:10:00.124399",
+    "source": "Astronomy Stack Exchange",
+    "license": "CC-BY-SA 4.0"
+  },
+  "dataset_size": {
+    "total_pairs": 12405,
+    "train_pairs": 11164,
+    "val_pairs": 1241,
+    "train_val_split": "90/10"
+  },
+  "source_stats": {
+    "total_questions": 14653,
+    "questions_with_answers": 12543,
+    "pairs_created": 12405,
+    "min_score_filter": 1
+  },
+  "quality_metrics": {
+    "accepted_answer_ratio": 0.5823458282950423,
+    "avg_question_score": 5.027166465135026,
+    "avg_answer_score": 6.373962112051592
+  },
+  "top_tags": {
+    "|star|": 106,
+    "|telescope|": 106,
+    "|black-hole|": 106,
+    "|the-moon|": 99,
+    "|the-sun|": 78,
+    "|observational-astronomy|": 71,
+    "|universe|": 59,
+    "|galaxy|": 54,
+    "|orbit|": 50,
+    "|solar-eclipse|": 49,
+    "|astrophysics|": 48,
+    "|planet|": 44,
+    "|amateur-observing|": 43,
+    "|exoplanet|": 41,
+    "|gravity|": 38,
+    "|solar-system|": 38,
+    "|cosmology|": 37,
+    "|coordinate|": 32,
+    "|supernova|": 31,
+    "|photography|": 31
+  }
+}

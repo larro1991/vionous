@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "name": "vionous-operations research",
+    "version": "1.0.0",
+    "created": "2025-12-24T09:11:22.803943",
+    "source": "Operations Research Stack Exchange",
+    "license": "CC-BY-SA 4.0"
+  },
+  "dataset_size": {
+    "total_pairs": 3251,
+    "train_pairs": 2925,
+    "val_pairs": 326,
+    "train_val_split": "90/10"
+  },
+  "source_stats": {
+    "total_questions": 4082,
+    "questions_with_answers": 3336,
+    "pairs_created": 3251,
+    "min_score_filter": 1
+  },
+  "quality_metrics": {
+    "accepted_answer_ratio": 0.5613657336204245,
+    "avg_question_score": 5.090126115041525,
+    "avg_answer_score": 5.353429713934174
+  },
+  "top_tags": {
+    "|optimization|": 52,
+    "|mixed-integer-programming|": 26,
+    "|linear-programming|": 25,
+    "|mixed-integer-programming|modeling|": 25,
+    "|mixed-integer-programming|linear-programming|": 13,
+    "|modeling|": 13,
+    "|optimization|modeling|": 13,
+    "|cplex|": 11,
+    "|optimization|linear-programming|": 10,
+    "|pyomo|": 9,
+    "|optimization|python|": 9,
+    "|inventory|": 9,
+    "|optimization|nonlinear-programming|": 8,
+    "|linear-programming|linearization|": 8,
+    "|mixed-integer-programming|linear-programming|modeling|": 8,
+    "|python|pyomo|": 8,
+    "|optimization|mixed-integer-programming|": 8,
+    "|reference-request|": 8,
+    "|multi-objective-optimization|": 8,
+    "|optimization|mixed-integer-programming|linear-programming|": 7
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "name": "vionous-earth science",
+    "version": "1.0.0",
+    "created": "2025-12-24T09:10:03.712318",
+    "source": "Earth Science Stack Exchange",
+    "license": "CC-BY-SA 4.0"
+  },
+  "dataset_size": {
+    "total_pairs": 5363,
+    "train_pairs": 4826,
+    "val_pairs": 537,
+    "train_val_split": "90/10"
+  },
+  "source_stats": {
+    "total_questions": 7117,
+    "questions_with_answers": 5455,
+    "pairs_created": 5363,
+    "min_score_filter": 1
+  },
+  "quality_metrics": {
+    "accepted_answer_ratio": 0.5159425694573933,
+    "avg_question_score": 6.081111318292001,
+    "avg_answer_score": 5.874324072347567
+  },
+  "top_tags": {
+    "|climate-change|": 73,
+    "|meteorology|": 68,
+    "|geology|": 45,
+    "|atmosphere|": 31,
+    "|earthquakes|": 29,
+    "|geophysics|": 21,
+    "|geography|": 21,
+    "|oceanography|": 20,
+    "|meteorology|weather-forecasting|": 17,
+    "|hydrology|models|": 17,
+    "|geophysics|seismology|": 17,
+    "|climate|": 16,
+    "|plate-tectonics|": 16,
+    "|meteorology|clouds|": 15,
+    "|volcanology|": 14,
+    "|meteorology|wind|": 13,
+    "|meteorology|temperature|": 12,
+    "|fossils|paleontology|": 11,
+    "|meteorology|tropical-cyclone|": 11,
+    "|geochemistry|": 10
+  }
+}

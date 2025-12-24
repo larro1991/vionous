@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "name": "vionous-theoretical cs",
+    "version": "1.0.0",
+    "created": "2025-12-24T09:11:40.550571",
+    "source": "Theoretical CS Stack Exchange",
+    "license": "CC-BY-SA 4.0"
+  },
+  "dataset_size": {
+    "total_pairs": 9044,
+    "train_pairs": 8139,
+    "val_pairs": 905,
+    "train_val_split": "90/10"
+  },
+  "source_stats": {
+    "total_questions": 12858,
+    "questions_with_answers": 9215,
+    "pairs_created": 9044,
+    "min_score_filter": 1
+  },
+  "quality_metrics": {
+    "accepted_answer_ratio": 0.635891198584697,
+    "avg_question_score": 8.526647501105705,
+    "avg_answer_score": 8.17436974789916
+  },
+  "top_tags": {
+    "|cc.complexity-theory|": 100,
+    "|ds.algorithms|": 86,
+    "|graph-theory|graph-algorithms|": 64,
+    "|cc.complexity-theory|complexity-classes|": 63,
+    "|graph-theory|": 51,
+    "|soft-question|": 49,
+    "|quantum-computing|": 37,
+    "|cg.comp-geom|": 35,
+    "|ds.data-structures|": 33,
+    "|cr.crypto-security|": 31,
+    "|cc.complexity-theory|np-hardness|": 30,
+    "|computability|": 29,
+    "|machine-learning|": 28,
+    "|graph-algorithms|": 26,
+    "|cc.complexity-theory|circuit-complexity|": 24,
+    "|ds.algorithms|graph-algorithms|": 24,
+    "|co.combinatorics|": 23,
+    "|fl.formal-languages|automata-theory|": 22,
+    "|quantum-computing|quantum-information|": 22,
+    "|cc.complexity-theory|ds.algorithms|": 21
+  }
+}

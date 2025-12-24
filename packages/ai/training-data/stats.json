@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "name": "vionous-artificial intelligence",
+    "version": "1.0.0",
+    "created": "2025-12-24T09:11:18.782698",
+    "source": "Artificial Intelligence Stack Exchange",
+    "license": "CC-BY-SA 4.0"
+  },
+  "dataset_size": {
+    "total_pairs": 7904,
+    "train_pairs": 7113,
+    "val_pairs": 791,
+    "train_val_split": "90/10"
+  },
+  "source_stats": {
+    "total_questions": 12380,
+    "questions_with_answers": 8577,
+    "pairs_created": 7904,
+    "min_score_filter": 1
+  },
+  "quality_metrics": {
+    "accepted_answer_ratio": 0.5313765182186235,
+    "avg_question_score": 3.1726973684210527,
+    "avg_answer_score": 2.803517206477733
+  },
+  "top_tags": {
+    "|neural-networks|": 85,
+    "|reinforcement-learning|": 64,
+    "|machine-learning|": 46,
+    "|natural-language-processing|": 26,
+    "|neural-networks|machine-learning|": 24,
+    "|reinforcement-learning|q-learning|": 22,
+    "|convolutional-neural-networks|": 19,
+    "|ai-design|": 16,
+    "|neural-networks|deep-learning|": 15,
+    "|neural-networks|backpropagation|": 14,
+    "|deep-learning|": 14,
+    "|machine-learning|deep-learning|": 13,
+    "|neural-networks|convolutional-neural-networks|": 13,
+    "|chatgpt|": 12,
+    "|neural-networks|deep-learning|convolutional-neural-networks|": 11,
+    "|classification|": 10,
+    "|reinforcement-learning|sutton-barto|": 10,
+    "|machine-learning|natural-language-processing|": 10,
+    "|monte-carlo-tree-search|": 10,
+    "|reinforcement-learning|markov-decision-process|": 9
+  }
+}
