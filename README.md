@@ -16,12 +16,16 @@ Instead of every company rebuilding the same knowledge, we build it once and sha
 
 ## 📦 Available Knowledge Packages
 
-| Package | Q&A Pairs | Status | Description |
-|---------|-----------|--------|-------------|
-| [Comics](/packages/comics/) | 324,621 | ✅ Ready | Comic book history, creators, first appearances, series data |
-| Cooking | — | 🔄 Next | Recipes, techniques, ingredients |
-| Programming | — | 📋 Planned | Stack Overflow knowledge |
-| Books & Authors | — | 📋 Planned | Open Library data |
+| Package | Q&A Pairs | Temp | Status | Description |
+|---------|-----------|------|--------|-------------|
+| [Comics](/packages/comics/) | 324,621 | 🌡️ | ✅ Ready | Comic book history, creators, first appearances |
+| [Cooking](/packages/cooking/) | 25,668 | 🌡️ | ✅ Ready | Culinary techniques, recipes, food science |
+| [SciFi](/packages/scifi/) | 65,940 | 🌡️ | ✅ Ready | Star Wars, Trek, Tolkien, Harry Potter, Doctor Who |
+| [Gaming](/packages/gaming/) | 90,614 | 🔥 | ✅ Ready | Video game strategies, walkthroughs, tips |
+| Programming | — | 🔥 | 📋 Planned | Stack Overflow knowledge |
+| Books & Authors | — | ❄️ | 📋 Planned | Open Library data |
+
+**Total: 506,843 Q&A pairs across 4 packages**
 
 *More packages coming. Want to build one? [See how to contribute](#contributing).*
 
@@ -31,9 +35,14 @@ Instead of every company rebuilding the same knowledge, we build it once and sha
 
 ### One-Click Training (Google Colab)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/larro1991/vionous/blob/main/notebooks/vionous_comics_trainer.ipynb)
+| Package | Train Now |
+|---------|-----------|
+| Comics | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/larro1991/vionous/blob/main/notebooks/vionous_comics_trainer.ipynb) |
+| Cooking | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/larro1991/vionous/blob/main/notebooks/vionous_cooking_trainer.ipynb) |
+| SciFi | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/larro1991/vionous/blob/main/notebooks/vionous_scifi_trainer.ipynb) |
+| Gaming | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/larro1991/vionous/blob/main/notebooks/vionous_gaming_trainer.ipynb) |
 
-Train a comics knowledge adapter in ~2-4 hours on a free T4 GPU. No setup required.
+Train any adapter in ~1-4 hours on a free T4 GPU. No setup required.
 
 ### Use a Knowledge Package
 

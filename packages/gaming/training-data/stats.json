@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "name": "vionous-gaming",
+    "version": "1.0.0",
+    "created": "2025-12-23T19:04:13.588090",
+    "source": "Gaming Stack Exchange",
+    "license": "CC-BY-SA 4.0"
+  },
+  "dataset_size": {
+    "total_pairs": 90614,
+    "train_pairs": 81552,
+    "val_pairs": 9062,
+    "train_val_split": "90/10"
+  },
+  "source_stats": {
+    "total_questions": 100896,
+    "questions_with_answers": 94117,
+    "pairs_created": 90614,
+    "min_score_filter": 1
+  },
+  "quality_metrics": {
+    "accepted_answer_ratio": 0.6701503078994416,
+    "avg_question_score": 4.862559869335864,
+    "avg_answer_score": 5.469452843931402
+  },
+  "top_tags": {
+    "|minecraft-java-edition|": 4585,
+    "|minecraft-java-edition|minecraft-commands|": 3488,
+    "|the-elder-scrolls-v-skyrim|": 3108,
+    "|league-of-legends|": 1997,
+    "|diablo-iii|": 1834,
+    "|pokemon-go|": 1473,
+    "|starcraft-2|": 1027,
+    "|minecraft-bedrock-edition|": 942,
+    "|steam|": 941,
+    "|fallout-4|": 921,
+    "|world-of-warcraft|": 883,
+    "|mass-effect-3|": 798,
+    "|terraria|": 782,
+    "|dwarf-fortress|": 745,
+    "|borderlands-2|": 679,
+    "|clash-of-clans|": 637,
+    "|civilization-5|": 596,
+    "|overwatch|": 576,
+    "|dota-2|": 549,
+    "|minecraft-java-edition|minecraft-redstone|": 453
+  }
+}

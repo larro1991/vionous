@@ -1,20 +1,3 @@
-{"question": "When did Spider-Man first appear in comics?", "expected_keywords": ["1962", "Amazing Fantasy"], "category": "first_appearance"}
-{"question": "When did Batman first appear?", "expected_keywords": ["1939", "Detective Comics"], "category": "first_appearance"}
-{"question": "What year was Superman created?", "expected_keywords": ["1938", "Action Comics"], "category": "first_appearance"}
-{"question": "When did the X-Men first appear in comics?", "expected_keywords": ["1963"], "category": "first_appearance"}
-{"question": "What type of character is Wolverine?", "expected_keywords": ["superhero"], "category": "genre"}
-{"question": "What genre is The Sandman?", "expected_keywords": ["fantasy", "horror", "mature"], "category": "genre"}
-{"question": "What genre is Hellboy?", "expected_keywords": ["horror", "supernatural", "superhero"], "category": "genre"}
-{"question": "Who published Batman comics?", "expected_keywords": ["DC"], "category": "publisher"}
-{"question": "Who published Spider-Man comics?", "expected_keywords": ["Marvel"], "category": "publisher"}
-{"question": "Who published Spawn?", "expected_keywords": ["Image"], "category": "publisher"}
-{"question": "What comics did Jack Kirby work on?", "expected_keywords": ["Fantastic Four", "Captain America", "Thor", "New Gods"], "category": "creator"}
-{"question": "What comics did Stan Lee work on?", "expected_keywords": ["Spider-Man", "X-Men", "Fantastic Four", "Avengers"], "category": "creator"}
-{"question": "What comics did Frank Miller work on?", "expected_keywords": ["Daredevil", "Batman", "Sin City"], "category": "creator"}
-{"question": "How many issues of Detective Comics were published?", "expected_keywords": ["800", "900", "1000", "issues"], "category": "series_info"}
-{"question": "What years did the original Batman series run?", "expected_keywords": ["1940", "2011"], "category": "series_info"}
-{"question": "Tell me about the comic series Action Comics.", "expected_keywords": ["Superman", "DC", "1938"], "category": "series_summary"}
-{"question": "What characters appear in Justice League comics?", "expected_keywords": ["Batman", "Superman", "Wonder Woman", "Flash"], "category": "characters"}
-{"question": "When did the Doom Patrol first appear?", "expected_keywords": ["1963", "My Greatest Adventure"], "category": "first_appearance"}
-{"question": "What type of character is Judge Dredd?", "expected_keywords": ["science fiction", "law enforcement", "dystopian"], "category": "genre"}
-{"question": "When was the Fantastic Four created?", "expected_keywords": ["1961"], "category": "first_appearance"}
+version https://git-lfs.github.com/spec/v1
+oid sha256:ad65aef35759e5de318a0c12c6385e13ea539a8da9a1fea8d142131711e10ce6
+size 2620

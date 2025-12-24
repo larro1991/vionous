@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "name": "vionous-scifi",
+    "version": "1.0.0",
+    "created": "2025-12-23T19:02:16.182409",
+    "source": "SciFi Stack Exchange",
+    "license": "CC-BY-SA 4.0"
+  },
+  "dataset_size": {
+    "total_pairs": 65940,
+    "train_pairs": 59346,
+    "val_pairs": 6594,
+    "train_val_split": "90/10"
+  },
+  "source_stats": {
+    "total_questions": 75252,
+    "questions_with_answers": 66579,
+    "pairs_created": 65940,
+    "min_score_filter": 1
+  },
+  "quality_metrics": {
+    "accepted_answer_ratio": 0.6401425538368214,
+    "avg_question_score": 11.07271762208068,
+    "avg_answer_score": 13.91656050955414
+  },
+  "top_tags": {
+    "|story-identification|": 2812,
+    "|harry-potter|": 2320,
+    "|story-identification|short-stories|": 2054,
+    "|story-identification|books|": 1124,
+    "|story-identification|novel|": 1015,
+    "|story-identification|movie|": 929,
+    "|star-wars|": 878,
+    "|doctor-who|": 851,
+    "|game-of-thrones|a-song-of-ice-and-fire|": 638,
+    "|game-of-thrones|": 553,
+    "|star-trek|": 504,
+    "|star-trek|star-trek-tng|": 455,
+    "|story-identification|manga|": 439,
+    "|the-lord-of-the-rings|tolkiens-legendarium|": 417,
+    "|the-matrix|": 403,
+    "|story-identification|tv|": 398,
+    "|story-identification|anime|": 372,
+    "|star-wars|the-force-awakens|": 294,
+    "|a-song-of-ice-and-fire|": 266,
+    "|story-identification|manga|isekai|": 263
+  }
+}

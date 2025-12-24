@@ -1,0 +1,82 @@
+# Vionous Knowledge Package: Gaming
+
+A training dataset for teaching AI about video game strategies, walkthroughs, tips, and troubleshooting for PC, console, and mobile games.
+
+## Overview
+
+| Property | Value |
+|----------|-------|
+| **Domain** | Gaming |
+| **Temperature** | 🔥 Hot |
+| **Q&A Pairs** | 90,614 |
+| **Train/Val Split** | 90/10 (81,552 / 9,062) |
+| **Source** | Arqade (Gaming Stack Exchange) |
+| **License** | CC-BY-SA 4.0 |
+| **Compatible** | Llama architecture models |
+
+## Temperature Explanation
+
+**Hot** - video game strategies, walkthroughs, tips, and troubleshooting for PC, console, and mobile games. The knowledge base is actively maintained and updated by the community.
+
+## Top Topics
+
+|minecraft-java-edition|, |minecraft-java-edition|minecraft-commands|, |the-elder-scrolls-v-skyrim|, |league-of-legends|, |diablo-iii|, |pokemon-go|, |starcraft-2|, |minecraft-bedrock-edition|, |steam|, |fallout-4|
+
+## Dataset Contents
+
+Training pairs derived from Stack Exchange Q&A:
+- Questions with accepted or high-scoring answers
+- Filtered for quality (Score >= 1)
+- HTML cleaned, code blocks preserved
+
+## Example Q&A Pairs
+
+```json
+{"question": "How do I [common task]?", "answer": "Here's how to do it..."}
+```
+
+## File Structure
+
+```
+gaming/
+├── README.md
+├── SOURCES.md
+├── LICENSE
+├── training-data/
+│   ├── train.jsonl        (81,552 pairs)
+│   ├── val.jsonl          (9,062 pairs)
+│   └── stats.json
+├── config/
+│   └── train_config.yaml
+├── tests/
+│   └── validation_questions.jsonl
+└── notebooks/
+    └── vionous_gaming_trainer.ipynb
+```
+
+## Usage
+
+### Quick Start (Google Colab)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/larro1991/vionous/blob/main/packages/gaming/notebooks/vionous_gaming_trainer.ipynb)
+
+### Manual Training
+
+```python
+from datasets import load_dataset
+
+dataset = load_dataset("json", data_files="training-data/train.jsonl")
+```
+
+## License
+
+CC-BY-SA 4.0 - See LICENSE file
+
+Data sourced from Arqade (Gaming Stack Exchange) (https://gaming.stackexchange.com)
+
+## Citation
+
+```
+Arqade (Gaming Stack Exchange)
+Licensed under CC-BY-SA 4.0
+```

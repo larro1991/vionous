@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "name": "vionous-cooking",
+    "version": "1.0.0",
+    "created": "2025-12-23T18:57:22.529086",
+    "source": "Cooking Stack Exchange",
+    "license": "CC-BY-SA 4.0"
+  },
+  "dataset_size": {
+    "total_pairs": 25668,
+    "train_pairs": 23101,
+    "val_pairs": 2567,
+    "train_val_split": "90/10"
+  },
+  "source_stats": {
+    "total_questions": 27325,
+    "questions_with_answers": 26045,
+    "pairs_created": 25668,
+    "min_score_filter": 1
+  },
+  "quality_metrics": {
+    "accepted_answer_ratio": 0.5219339255103631,
+    "avg_question_score": 4.8883434626772635,
+    "avg_answer_score": 6.451340190119994
+  },
+  "top_tags": {
+    "|food-safety|": 326,
+    "|baking|": 279,
+    "|bread|": 187,
+    "|equipment|": 183,
+    "|substitutions|": 128,
+    "|baking|bread|": 99,
+    "|chicken|": 91,
+    "|tea|": 85,
+    "|cake|": 82,
+    "|coffee|": 82,
+    "|baking|cake|": 77,
+    "|cookies|": 72,
+    "|eggs|": 72,
+    "|pasta|": 71,
+    "|chocolate|": 69,
+    "|cheese|": 69,
+    "|flavor|": 64,
+    "|baking|cookies|": 62,
+    "|cleaning|": 60,
+    "|sauce|": 59
+  }
+}
