@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "name": "vionous-physics",
+    "version": "1.0.0",
+    "created": "2025-12-24T09:02:20.739936",
+    "source": "Physics Stack Exchange",
+    "license": "CC-BY-SA 4.0"
+  },
+  "dataset_size": {
+    "total_pairs": 175265,
+    "train_pairs": 157738,
+    "val_pairs": 17527,
+    "train_val_split": "90/10"
+  },
+  "source_stats": {
+    "total_questions": 234152,
+    "questions_with_answers": 192684,
+    "pairs_created": 175265,
+    "min_score_filter": 1
+  },
+  "quality_metrics": {
+    "accepted_answer_ratio": 0.5685733032835991,
+    "avg_question_score": 3.0439905286280773,
+    "avg_answer_score": 3.8525033520668703
+  },
+  "top_tags": {
+    "|thermodynamics|": 1261,
+    "|electromagnetism|": 1125,
+    "|quantum-mechanics|": 735,
+    "|special-relativity|": 606,
+    "|newtonian-mechanics|": 533,
+    "|electromagnetism|magnetic-fields|": 417,
+    "|fluid-dynamics|": 405,
+    "|electrostatics|": 371,
+    "|optics|": 343,
+    "|waves|": 312,
+    "|homework-and-exercises|newtonian-mechanics|": 305,
+    "|classical-mechanics|": 289,
+    "|thermodynamics|entropy|": 245,
+    "|thermodynamics|statistical-mechanics|": 238,
+    "|visible-light|": 235,
+    "|newtonian-mechanics|forces|": 230,
+    "|statistical-mechanics|": 229,
+    "|acoustics|": 229,
+    "|electricity|": 223,
+    "|general-relativity|": 213
+  }
+}

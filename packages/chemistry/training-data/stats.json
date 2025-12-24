@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "name": "vionous-chemistry",
+    "version": "1.0.0",
+    "created": "2025-12-24T09:02:34.745905",
+    "source": "Chemistry Stack Exchange",
+    "license": "CC-BY-SA 4.0"
+  },
+  "dataset_size": {
+    "total_pairs": 34326,
+    "train_pairs": 30893,
+    "val_pairs": 3433,
+    "train_val_split": "90/10"
+  },
+  "source_stats": {
+    "total_questions": 44825,
+    "questions_with_answers": 35524,
+    "pairs_created": 34326,
+    "min_score_filter": 1
+  },
+  "quality_metrics": {
+    "accepted_answer_ratio": 0.5230728893550078,
+    "avg_question_score": 3.5673833245936026,
+    "avg_answer_score": 4.604847637359436
+  },
+  "top_tags": {
+    "|organic-chemistry|": 645,
+    "|organic-chemistry|reaction-mechanism|": 417,
+    "|inorganic-chemistry|": 410,
+    "|thermodynamics|": 400,
+    "|organic-chemistry|nomenclature|": 355,
+    "|acid-base|": 348,
+    "|electrochemistry|": 319,
+    "|physical-chemistry|": 226,
+    "|everyday-chemistry|": 226,
+    "|physical-chemistry|thermodynamics|": 203,
+    "|equilibrium|": 191,
+    "|redox|": 159,
+    "|experimental-chemistry|": 145,
+    "|quantum-chemistry|": 145,
+    "|kinetics|": 141,
+    "|organic-chemistry|acid-base|": 128,
+    "|nomenclature|": 127,
+    "|organic-chemistry|synthesis|": 126,
+    "|acid-base|ph|": 114,
+    "|physical-chemistry|kinetics|": 113
+  }
+}

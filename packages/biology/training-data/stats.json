@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "name": "vionous-biology",
+    "version": "1.0.0",
+    "created": "2025-12-24T09:02:43.301113",
+    "source": "Biology Stack Exchange",
+    "license": "CC-BY-SA 4.0"
+  },
+  "dataset_size": {
+    "total_pairs": 21912,
+    "train_pairs": 19720,
+    "val_pairs": 2192,
+    "train_val_split": "90/10"
+  },
+  "source_stats": {
+    "total_questions": 28798,
+    "questions_with_answers": 22605,
+    "pairs_created": 21912,
+    "min_score_filter": 1
+  },
+  "quality_metrics": {
+    "accepted_answer_ratio": 0.5675428988682001,
+    "avg_question_score": 3.9453723986856515,
+    "avg_answer_score": 4.417716319824754
+  },
+  "top_tags": {
+    "|species-identification|entomology|": 314,
+    "|evolution|": 264,
+    "|genetics|": 257,
+    "|human-biology|": 203,
+    "|species-identification|": 168,
+    "|biochemistry|": 152,
+    "|zoology|": 109,
+    "|cell-biology|": 108,
+    "|species-identification|botany|": 105,
+    "|botany|": 99,
+    "|molecular-biology|": 98,
+    "|dna|": 90,
+    "|species-identification|zoology|entomology|": 90,
+    "|neuroscience|": 88,
+    "|bioinformatics|": 86,
+    "|entomology|": 79,
+    "|botany|species-identification|": 78,
+    "|microbiology|": 70,
+    "|species-identification|arachnology|": 70,
+    "|species-identification|ornithology|": 68
+  }
+}

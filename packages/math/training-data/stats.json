@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "name": "vionous-mathematics",
+    "version": "1.0.0",
+    "created": "2025-12-24T09:01:09.424740",
+    "source": "Mathematics Stack Exchange",
+    "license": "CC-BY-SA 4.0"
+  },
+  "dataset_size": {
+    "total_pairs": 1238770,
+    "train_pairs": 1114893,
+    "val_pairs": 123877,
+    "train_val_split": "90/10"
+  },
+  "source_stats": {
+    "total_questions": 1641406,
+    "questions_with_answers": 1334287,
+    "pairs_created": 1238770,
+    "min_score_filter": 1
+  },
+  "quality_metrics": {
+    "accepted_answer_ratio": 0.6869418859029521,
+    "avg_question_score": 2.183685429902242,
+    "avg_answer_score": 2.8240851812685164
+  },
+  "top_tags": {
+    "|linear-algebra|": 19873,
+    "|probability|": 17251,
+    "|real-analysis|": 14973,
+    "|calculus|": 14433,
+    "|general-topology|": 11866,
+    "|algebra-precalculus|": 10849,
+    "|complex-analysis|": 10413,
+    "|ordinary-differential-equations|": 10302,
+    "|combinatorics|": 9816,
+    "|geometry|": 7554,
+    "|elementary-set-theory|": 7537,
+    "|trigonometry|": 7078,
+    "|elementary-number-theory|": 6822,
+    "|sequences-and-series|": 6820,
+    "|linear-algebra|matrices|": 6733,
+    "|abstract-algebra|": 6225,
+    "|abstract-algebra|group-theory|": 5163,
+    "|integration|": 5090,
+    "|number-theory|": 4949,
+    "|calculus|integration|": 4909
+  }
+}
